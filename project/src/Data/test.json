@@ -1,0 +1,23 @@
+{
+    "type" : "pofdghjjhh",
+    "dataemployee": [
+        {
+            "DepartmentKey": "RAhebUdU4D3wg68PWr2xufslaiPGIMPYk5ohkRofs6DCVSOJcexyQP6DTRKja6ia",
+            "Department": "Sales",
+            "SerialNumber": "62RmF3xuEMntJ5T8cWBomUfPt6G3yCEzRem5plb00aAYEfsIOrAANobP17XUrQkN",
+            "EmployeeNumber": 1,
+            "NumOfCurrProjects": 1,
+            "Gender": "Female",
+            "ProjectsDone": 19,
+            "Age": 41
+        },
+        {
+            "DepartmentKey": "GBx8iAjylwRl4L9YhoXUcEyPpTxTeMqHjoTpx03XTi3ZWoLeKpyXuBRJ4tpuaUI0",
+            "Department": "Research & Development",
+            "SerialNumber": "dG9DHIUFIxIR9HD9TDvIZohMipMJapy5OTEgi6CQoLUbbQOUVvcg5WOo37p12Auz",
+            "EmployeeNumber": 2,
+            "NumOfCurrProjects": 1,
+            "Gender": "Male",
+            "ProjectsDone": 35,
+            "Age": 49
+        }]}

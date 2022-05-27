@@ -1,0 +1,5296 @@
+{
+    "Pourcentage Mâles/Femelles": [
+        {
+            "SerialNumber": "dG9DHIUFIxIR9HD9TDvIZohMipMJapy5OTEgi6CQoLUbbQOUVvcg5WOo37p12Auz",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 2,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "jKHvcAwuJpo03U8LF8D1vp5QtQaE9ikwcXZ3vhtgfQoCf5iIq8pOJdjE8cNWLYbS",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 4,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "ETiNk6nxu9x0LfcB5nO43SEJMrLEfv3iCe2yjaxuBdcJYygqd1qoNHIuXjo8eMEf",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 7,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "gNerHqTIXfkLCkckTtgeSbgleLC5QfrRXVMphVTbOEIDbZfcD8lcFXfGBCD1jIds",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 8,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "jH8ZOGzzM1pJKdV6nUgAWoPQDd3cwRWtQnZsHjH7QIHpQb750CG8s6fDzZiuPpf6",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 11,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "azvmu8IeopebDUaPiMH1YvAcmkW71Lc5CRG0uX2Ehelb6WY81iGMKsWxYmL8feKq",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 12,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "SFZ1M1ZkGHFJbvluX8ZD7pYRU4XTseNGyOkhg8DG1T78tNQlI2PU7ecuctUQu1fC",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 13,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "6Z30ctNTQCOqGnJ2Y8AiN6Ovn0u2B79yiJQbyQEH0Lhtze2w14NYTCMZnDMrCCJO",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 14,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "eEQvLpskXCmbnTlMaTItjqlHXu83IOiCVTXe7u6BvAPQfG6D1BUBOFbX85LzzbQ6",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 16,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "8VyykUcJV0cI7ZHiv3R06H0wA0LKX19llQJNf71bBRRXVqvtFkg0n3dGfogqnrup",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 18,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "Z0UBP1t55gM6WOlSM8drdDsnPc5m61LLoKm1i3g3lrN43ukE0h0P3LjAilhtvmaF",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 19,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "sqSRkHNKxIHZklfxYXdPfKhzJUlFPTibWZQLJR4ALczSATfvjJdhPPUwq23JNvcj",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 21,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "guLkCrKp5hbuHdZmMEdykMGOJHJC94y77jyvYMRRcU9qVAsnQXZH7lsIxcD8M6TV",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 22,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "bxiYdewJFFLZvp2Vd1oi1UJa2aheQIfHvk8tngwZanArA4luga3V8PLoHwSTB8u0",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 24,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "MIJcyez47JVsxgEthbNVS7njVUzYxkPJafr07haSqwfIN3IvgBpPjZncB7M6JKbw",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 27,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "JKEJAaNcDgHJb4r61hFsemkVFPllosm3c1sPxqrubjXWuUpZgqdJCAY1lXFUeCLA",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 30,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "vWqxuiuOwjXNGuAY7RgBUTbVYxdSzRHc4DRsHVwQ90OfJ3ths9RMo24yvCbXV5Zo",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 31,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "qUJdbEtHCswBGakr1tdrQvS9pizLTB23aUIvnN7XdhcojeKXuTHQ35YfsUCkye28",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 35,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "oeA9zJvXaDAox3pBsQqQPidoKfxHbINV4QuFKDVwVK7mm1RiL384CIo20vbamujy",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 39,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "fZuh9xnBiL833UKBUNnzSj0UV7dO0p85GIEUhHqEekzO8ISzeiJtrlEHW6I6v00k",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 40,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "zTkh1qi7HnfIKMwT54nGpjVO5lICD4oMF4u8qxE0BRbmmBgKdUzcO9myLjZkTYbQ",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 41,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "XvBok561pMcoSyknFIGAZcZI1SbKNCv13Lf48nin6xXbmkVvxO78OHSSrzRxiyQQ",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 42,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "fDluM2IBdHQtb0QT86REbRnvgdkbH8Mf3usLLq54UK9m7yDmG0Zv5guT2FFJz79L",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 45,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "6qbg2jjxc9QFxqwa0GNTiCP4td62xI5eIfYOhFtdteXw1bwc0kCP5CfPeNcXo3jp",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 47,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "Ru6qNY4cwnOauRmsYdcNjxn6BO8lTcF0KxgGeQFb7zKbaUmhDL2Dp9lkSzHeVUth",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 53,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "Y157LSujdwmVnhzR6UxJ8NreBRIZYShH3ghxx1M6CcFJv1DMGDlIP3AEdULsgYuu",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 55,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "v7QsYIATUDjbt2pja5qDnPyx6MNiLoOECON9tOrKJxrUw4KmRuWfgPh32uIc7XDq",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 56,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "vILk1S55n15ARWdEfeRm5dAmcxjmP4ZgYGHEURFCNIGyAuDT5yXQ8aHIBC0cAEvy",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 60,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "Cx45weZiCE5PpMeELHqka3RU4JQbxNsfakMqlk1ILes93kxr433uHgGzgCqnKHEr",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 61,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "wcVxH13wPatXWWH9Q1jUTcgceh3trEf0r88QFA8Y6d52rUCL10t1O5aiXTj7Ra6l",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 62,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "3Z2E3amHEdoNHHTXwT63CQeFLdZEAXoXplIKeqhA0mlsde05pKRD8TcKWwDtcVVl",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 63,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "8VFyeeS860NPl7TPAEGGxsajy54tkTOF1WpuBhfxMwLg0Lg6yk2DyL5M1r1keViI",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 64,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "9u31UZRmYz8vJw5qB7lQUO3xU3iWOQ4dzkeRfJFhyte3TqzTZZnzzPk7xJGrR8vf",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 65,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "CY5b3gteLwqtvUo3lNkpV38zzU4smEgJ5shYCL8oWr041sdcpBsbaUBCqkgJDe9d",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 70,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "djaUM5Z4YPvQBUTo2jPlmPrHLaZ8ZytMCEcWhpIRy6Wuv25Sjr0M9fdd6V3Vjz6W",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 74,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "vgljoIAaeAZHgI97lfHViylU5ppjMpdJBEmnDe6Q5tawy97TrRxdfI4ls4Y9FznA",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 76,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "xXgXHvXPuQu2HtHTolsL6lSaiEFn8wGBvdfmCUO2J6FvIP6Is6cU3bbovPA59W35",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 77,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "IO8QNsckK8BrwQcmJd3eFUEirsHAq1JlYcCsF0eJShdkWnVPKJW5s0fJ8Gm94kYK",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 78,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "tQyRloaAobKEuC3zK3QTjiFBqaebcc0cIX2eMscH59V3CsMEUZG8CsaYBFcO0kON",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 85,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "GZAFLMEBIz19Me9J3A7BZp1YYNGxK7P4DpnbrGSsCNpDn5QwlnB7etUDsixXUKow",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 86,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "XuFS6cBN0DjsMMjAwmMMEpxLOTHzVUHeWs8l5lvDVL0XU1OXjJaXouspCaLr2bRT",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 88,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "qcMOxKmesvSimwv6KrcqltMYHlephTamXHpnoVfTnKdzwok1mfdcwkUN2xEFK7ci",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 90,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "MeZmedjS97uaCImjxbvZIraFRZxH4H5AyeU9mvJ2k2UMwAnG0NaUSMu1Y77PS8aN",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 94,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "gquxniLQFPe0f9G4KZus7joZpwPBGf88JRIFNpAA4QNiZbnT1DZAbMT3xndxz2Yl",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 95,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "wcGlHau00zr1EwC4Vmberml5AglK3OPYfNnVgblvUKVGRyDg18rNKhimrtmem5Rl",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 96,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "pdFPMjW0luteKhhg1deKggpgapmRmpmwcxDNKMaSVoaGs2a0q7mbrFPo617DjbfX",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 100,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "POVfstyasPluAXLLVKNo23LzcTFfh3mNcNjZxg4snGKdY2kUH3NZWh6pbIyp9TSx",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 101,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "6V6y7gAPT5sU3kCzCZHZ1zX4X5GPDFF0yrpdzoVmcZ3MPOGeKWeN6OYK5rFcknve",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 102,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "8oYI5G8ghANFCUdt6eKoxLJvCVxfSCcuO20S2P9jcITJpuBA9cMfnwU12ge2eb0h",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 103,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "qDf30ZM1aig8ab93MRC9Zq7iAA6yekjWAzrWnwgqPbSLH0qBumlrkI6hpoBWAzT9",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 104,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "8YAtnRuFzExAnLFtyhbiFeWhQXtHO8ymTqsFh7NZJJuFVIrGyKIwif4Ee3GgUZvY",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 105,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "p442zj4A8oQcbEaizfUWTLp6HeXmozUDwUbuHH7TKWuNEDTtyS7BlCAdVNYCeYn8",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 106,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "F30HoLyODVYFqLpTKFAWyx33faF5akghoU1nRx48QoXnXtwspYJdpu5hwfotl7e4",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 110,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "bnw4IMm28VVs17t48qOanlHnLchtWkmIayS9cakLo3TklCANWQY4PsBB3CBBayDV",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 112,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "dyvuzs290Ho5kf6ChVeXPtLu4zd12WYoA44GVh3TQpOBL1oNBVbf9Th2Qfkxn57L",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 113,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "UIiXxmJQpgxbxUSEpzGldxYmcVvv9P79lXGhMrpIvUmJlGDtXJkQ3NXuZZwpmLmZ",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 116,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "7Zjg8tsAskmTvvBIF6iMlKK1K9se1bQx4bMSkXpzkxeEaLbXwgGe5I3Wk0suNc6g",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 117,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "FqokFinzgZ3oTTjlASFY9RUVhwOtFqd3cRxEXGwIhN4wka2R8fFurMPSca0vdUGl",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 118,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "VC0IB833jRj0BXN7JY3jH9uH7SRHb8xvoHS7mn14FczB0XA7Hwwc6wlXhkY53a0O",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 119,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "TbKwbvRxy70e1VMrHqvelRYxzoq1pBNi087qr24bTMNNHLXKRkBNyziEli2jhoBr",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 120,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "L7axsD0IqgnUCHyMydvlAIxNjp3iE9X2bUwjXfo830hcl6fm7CVm3LRSh7NMVmKz",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 124,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "TiUjvBTULA1pRuURU7Kp4uiUfd1luCIqJmMeuXLNIeA7u0HPNDBMzz5tygTHuzfh",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 125,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "9oZCOnMzxUxPF5drms36WQAoeOOlLjFtiV1WBQ43h9GEuveKzS04difFXD0P6OAd",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 129,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "9mkrYDr1vF6GuSI2dQYrvkyzZ3EWVcfeULjy37VbDSzJs9XXLfXdTeEj0bnSYONB",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 131,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "lN1bytRteU43g3LZSR2oLrMebERBBc1p7BRcap2LvN7oVV0PQFKaKdMCXY7u0J6m",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 132,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "5xC8FUPSJCbtGrAfPHZJUNqhzIAw7R8Ubwyz3RwPJk7T2CjjDiPtVXG0EiH9Ime5",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 133,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "coMdCDNI5bLPJYs5tg5Jf5bjbUbIKQ5Ag1x4noLoEqpZdieizERes8vUGNSJtWq2",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 134,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "AtuhlooRJdUMl1RHABIOp8mJuIFuaDlI1CKFzAKhXwCtKsZIhcauUTHScu5MypTE",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 139,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "mCh2Htrx2yQqRphsJwssrZ7sGo3sclFkbPRDprRNLrg1PpOCFQvMwjc3zwYN6IyO",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 142,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "aP99PZGaEeWWQ5zTV5zT4P3QbRh1pZwKgUSfSAsdnNGQQxV0uHniioJGagAeaUgt",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 143,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "2waOhezTs1FDuafBNhflIluNdPRSO9zTgwwF3faTSjbFYZnRzxUpXzT2IZsdDR60",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 147,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "dTLuZVlhfx0mp0FpVE0dcyKTN8c3ZUXQXZ0UbORNxUHAMgcs9jkr4mBTPi7lmuai",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 150,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "MD63KVAb8oVIi8dZbdI0kStO79A6EUCILcKkii0evqth5M8slKegSTZKial1kamV",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 152,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "vDNHRuR4Fh6uH9BpL6vpD1ehHezWX8hcQxOiXdP8lVC57zkgs3tXneibbWGUTrtE",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 158,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "dfUJo2WDQL3apnoBP5U64QgwJPNLsHpIF6dY4kqkTsGx22IPm4UuWVfrJCtO3cUM",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 159,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "jvBsJ7yKzTLuLczyBCRUjmq4hbE6Rh2U70Yd5GeR2G327ZlHoMCOUwmIxjdizp7x",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 160,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "C3FSa8uVUo25qW0qxtaxXRuvBwzy4gzuSvIWnGPAf2PJ3m42A6yxofnfitAACqUV",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 162,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "duJ8k6h81j59W1pX9Ou6B2FDQzvVWiUGiStqh5xrWfVz2x78OL6ja005tROSAgJ4",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 163,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "ClhRIRdhoH3fpodUordoxTyR6Cmt7ZyBzLTrlwiMowTvuiHb1PjbdZqPLLFU7qpK",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 167,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "xtv1ohDuhqUqITaaRCELFLr7Bkd9Gs0zMPO4gJk63JgWPFoWLmBcIzbqDEttym1f",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 169,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "DIkPwqvNmtTntDmSaLSQmiJuStrNu9Lk8rLFRevkzws9QtGUWXr8slHQgeHjcSHo",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 176,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "1ZR3gPGm9SLoeK0D2eKcZ5ZPZH9uaqIhhnM1dJujJ3WLfgY8flMpIAiL6Ie3Lyrg",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 178,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "dgHoaz2cRmTjciiGrKAuryCXCeRJ1IBMbF90Cn95ipTnXNipbxd7Sf6f6mVaTTak",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 179,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "0XrspUIUHzE6yIiEXdRAldLJn2HL5OExSMDMNtRoMOKZnkCUIjooRdEhEywOn4yG",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 183,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "Onu0hv9m8JIXBShBPzb8llbbmtNJvYkesl5D3kmZAoyT40wk5IlcFOYfIVoNWJZE",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 184,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "XUPH4NLDlV1IljBXn7TeUtAyhqRMchogl9WwTtqwKIe0MEEV2lhknsekcCAo2YnQ",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 192,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "u9mBiY5sjmUZzbQ9FT6hqvVCjjSqlcLVPe89woZvqoEencHH2O01bx6YLbI98uhm",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 195,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "2UxNoxbqR5KMFflRkfQZShdHPdK56XaBE8ph3XBUNqDMrP4N6NRnZDxiCCrLPbC3",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 198,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "reLxgoKTQVnW08SaGick36R5dhnEar8l6aAsXSgkXyPwlKnumtWlG4T5wnEgRm4w",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 199,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "ADmerOxca85yFRMs3cyMf5S2dCLwfmJ1aV3Kr4BxQaLuIGbPhcRUWX1dhGaVNDrM",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 200,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "AgAYMoK2ZehRPCQDl6NFFg7aI9v5cPmXSOxC1yu8KsAnHo5WIGVnEiG0yjgkbfUn",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 204,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "XMxE2jOT6IiGCb3qLiDdtYUbAUvDCGLIu8pGRnbcKdeuqh3Q7wYHPg325Vq4nA37",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 205,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "p3AfDqmQ3OtaCZAgO0ddyhBgKZ8fTVbcP6lkCsyaJHEatN4ZIcK63vjFvaNdboiM",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 206,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "niKZqSNhODHEEmqSDNSPQ6foX0By8JubpcMynY8gCqg3KWDP2KkhLsC41GhdXWsv",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 208,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "lZGrS7oWMa94wdeUBJbjlNkAfW2lBQLZl8WauUxWNeAqnULWqZBNIXQyAoAlTE5f",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 211,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "w1BL3t8GZ20oSMdLSrsgeCLGVfVSB33kcZakvjUFo8dNHvTR7zfKhQxsAANr9y6p",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 215,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "QMUDw8RHspPE9VjZisSYnF5387bbOTMiG9DGVKdnx3qksaxWZdY94YeWBfO70klI",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 217,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "bKllP6dF520mIwVbbXFTjrSwBBVN08nJpYboFCx4BcudWkT6CgDfPy6xhBoU5geN",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 218,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "VVcE8swZOUi4hkUh43GgGXyCy7PLvVHui4P9T23RMQFPdDiKO5jcdUNWcnCkAEEr",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 221,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "1kEnGcILXU52CIxjGLYHWTsxjS4HQoKDeaqRwZPpY4jTWvGJaTjj1Bp6d5JsCbq6",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 223,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "VpK5fSApxnsEOwObMavtRB8mOYyCJ0dLSzmqNJM1Mw1qDMdTCm01SyfyN7Lc9IoM",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 224,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "6d6jloB0uqVJYRErVPPULn3QnHPMzLvpdl0XZgJsdn5Ylt0puLLmXMnpHksdnF0j",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 227,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "0BJJjZl1MZhYQeGEpZ3edDqi9cQy4wMXIka7CI5r97fCdYqbOJm5PfPup04Yn4bq",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 231,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "xIqrzleqQjvfho7SgKu3Bj25f9XmSsS2Chn98Vcdo0l7lDw2WYa04FjIecRW3dZr",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 233,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "XLHdV2wXjbqYnHLpWtFhJZEYaE1lmK70HkAlG6YJneiE3deCCjXgZp4TtQJZOyPd",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 238,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "0NqUV9IlwVtNSyKK2IlYUUFArZPcS8HRPaRS1vgWkUFF9XSvN9zEMfGrjCmLwgpL",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 239,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "pfOjltCN5jk9Qt00lYed9SAjGLzlOERRnfuLzEzFoYrmF9apeaZqMTH5EmR1vxV3",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 242,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "1odfzueWu2fjEXRzDWzQWbSMU1XBuo5mxYg8DMrIahAnlE9ob5PJt2XCDUo9cEyY",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 243,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "pbBQGrsyqZh9i31RU7ANRR8hFywFjV4In71UWDKWEvHzBXUG1c0tTjrY9ghlkUHk",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 249,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "YUZpvrk8e24Me6L2xYYLWVoPAywxY762ro4j5jQ0QhVjFPcY4nwyVw1f5dmDsBSF",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 254,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "Hl3jwzJOwc5AGpQbmphciYGPXLwyC8TyzLp5RoN0ow8WhfyayGH5ob0ZtIQFTFPk",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 256,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "vbSOIXrb4zkmBb9se5h3iqpft68MjYJqMvgNaQtPqEkSng83enYlcjhtbB9klf3n",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 259,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "HcwzHHNNUSeALQXDX3zs9dV73f72gqsO3BrmtjMUm2xFqOwrJXhXmOpOpS8JFdZN",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 261,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "m6hQtLgdUDEeyXcVqNEpqMZiSzeo7GKQxPod5zu2V2ziPqqjlAS4Q0Tj1jz5U9jM",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 262,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "yYlUVDhoDzCta2TMsWwpLT7y646sY7XbYaLFvZwSHnKnwqtqLzcMr96KeSJuYrZi",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 264,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "IEna09ytKLbiDOBCtVxliDKz24Cr2fv4HMnNZ9WCMIW7pNDFbUlOnSZT0SZVZhTc",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 267,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "6VB5kZ0Tv7x4fcYWyaYcz4Ud0IPpnf6WDjRbQCkEG8KfRBeHzlc30AuMeO8T8vV2",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 271,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "fGXcwuUc1xvOLqkAmqjpesAccbUabFlVuGb6EsH1mulEKqCQyH698WAHH3zVOLM7",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 273,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "kQe4B7RFQxFLI37DvkeloRs5D2Da8s0Qjk3AN3ZC6Hbx3LQvU9ktjuRPQ8a1n40h",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 274,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "INrd5crOdKKTBSc45b2sVYc7mjXhzrUpyaQ5KITDB8C3wlioOjzbv9ZwfnmsAbbS",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 275,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "n0wDsXhsHW284l7M0xzANjFY22jUrvadlwUVntlNmVqs1cLALj8dCD02CaLvGgSR",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 277,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "5obW29Hy9vsVutaD8lsRZSTjfEU2LsP7hjOJ3yWsucDp8TdNfU5hOT5I2aSOUQrO",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 281,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "FolsWtbEMCUi8isHSw6bonSPp9nkab0iPseC1WUTbnejYoZfAXHHl3m7R5VBrmWg",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 282,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "VhYoHcwKLLCMoI4Ss40FMcKHy46XwVGdwiDU1NmKTJrdAnErB2ZuLfruTgkCQXDY",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 284,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "gwPwhOs2SLf9comxPjOFygWeu80eFIG40ms5iMiEMIWb2LvQf8hDjR8C3cFkyEmb",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 287,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "TKWEHgA1rGscloExlCMznMJzVYbleP5G6AeUiNKzgUWRYhefsU0ZNtutVhckvvcl",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 288,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "UTQpBWzRmamaqejaTAhHppQnPEMn3b1ZJ8UqiRMASckT4BADQbOjJBOaJaOj0b0W",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 291,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "ib3Cbu3M0yKc8SFppc337oD3pX5NSxPY4IOQltiG9fF4Uqsp7s0Md3KnUBXg4HtD",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 292,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "x8v2rlMdQkhY03MKlVxUuxDVhwRRwhoZPrgtZqiAYVOR2HixwscV2yshnSL7GPJm",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 296,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "s9lrcUvW6x5ILbv5gHsVrfEYdr4pnPvi6sDBpJVki6YSY5a0nvOn2SFvsr29Q3Pv",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 300,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "QdGCl3U7bhzssDk6f739QEzVGuFMOB7QgABXIxCNuQod9hJUR6FAinBpk1jvlxqN",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 304,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "2Ncj923zD7Pa36R3ptKr2xLRJkfsCTn8fp5EwDOr9gMyYh5DKMg1mpBvouayf7vA",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 306,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "3oJ13ME2jTa54JmafFXdP0T9XdIdLjF1vP6LdD3qqwyOFBLMxENgtAESgMGzpRTI",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 307,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "48k9M3zE9IIRJY0d0K8lolwlzMeUbugvWqNFKf7gz6SBNBhCK5nGDGujvHSOjfWg",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 308,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "hFTau4f66mcQeCIPM9835UtJAYlMWmAzvRYSYgEAb03yYLFUeAvNsES6jjqE13qn",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 309,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "gQLFmKC7ys6eARfy8r8UDlr41ePLwi4FsDdxNwGYzDmux4IehHHzaMpaJMbsq3eq",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 311,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "caEfqD21BkyC8NK7ArVOMhV7mB99kkZbM8dSPcAh4I7jwWqIqWZxhvAcWlfRi9gT",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 315,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "x0mBNY3Zg5qMR0Y0t8YkZHp0pfgKM0QdSOHCmCRHzapYf4t1YSZFZqPvhz7FmL4W",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 319,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "AcI7fpjDl4KyvCtfMqmObDmPUJh3jrFejSP7MVNk9bfMtfi3GyTC1dQMgAacd7t1",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 321,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "u6Nr1eOZlUXPJYoPCAp72PTEvDZSBrVfMCoEaEj1vgKKXeH0Mb5LMrHBZaLP4Aac",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 325,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "W7JMmWyEiShFxln7XHfR5lJAXtw4At4rq2Mr0VaER02Po7Mi6zKyaeqMDhO2jNph",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 329,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "YsfoEfJVlJN712VkYI2aY6JuLLaZVM9oVMcTxHhr8ZXwZmczQsizXIU0Q6fXvMVH",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 331,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "SKJd35tYfQW5jBJxxmS0EqCkr43F1ETtznxsHeo4GYrVtHkqTcZQWP2x9o7hp9Q5",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 333,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "QJOgVlJfrQ6cNJU72MdzabqJu244hFpHdUqeVvlUzoaT12CW1BcSH5tvMLyk6w5O",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 334,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "KULaPYLSxGy8XOgDm8kfJWQ0eyWb2yRq1ZYkxZwAicrR4M57ePCvEhNaLRDDykZU",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 335,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "PwrgH9QarwtDIGSYE2VJUSp4nd4RREgeGfIZfhHUQuiZcnJpJL8yNIYlekTlIhen",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 336,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "edTOqq8pnM8OHvhu6IZ2CrwLg3QHhr2IjKEgRJyW90Xoex6bKhogUzaK8yPFz6e9",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 337,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "Ck23ZM96Ti8N9k6XCiDF0HrNFZMelahrrEOhkEjLNZbKkHSbXqS9OlEzMq3ffcVs",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 339,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "pAAo9IZ7Ui2BvDvsKWqeqeDUd9f2nAvJK4Iu7ES8q11kB8vqffHUA1tsLPaU18xh",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 341,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "R4C1JmN3jwGsu5DGQIKpY7KArEg3TZNgExtYbLJ0BCkG7kqYFuMj0YdUHGgGGnHh",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 342,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "AuNUx58GzLNgH9v9MGy5d3a0JgQY32mImXdPo5SqS7z9Mz5RMQQxAAf7j4vomAXn",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 346,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "kqVesKG7nkEAUZLFsWDFmvzTyQ2D37pa3KGBMQtVN1Rz07FhGT9iY9ATZNQMU31b",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 349,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "zJWDNAdOibWVZRp1O4eHyPk9pr193NC0sNnV490OAZ11HdpUae9Nait0EP9GQcrV",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 352,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "n7wJqNM6cxIqMwRKnme424GdUinGOa009zGuciZk0JwaV9g9pYKyLfGRIsQwdxf1",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 353,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "NmuTvM0hhOQSqjlJVrV2ZyXD6BBLVOcVAHG8pehUYCzSTYhZQ4Nv7X0TqYxWuJyR",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 355,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "989JuGcGYLSb9ZikoECK6IkC4Gi6Y8eap22XgObr7L9XXjfcM6BLTZ5x6xgLLbJD",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 359,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "7BT4Yr4LGS6S27SQ9Hn4hMaUN6JkS4mRts0HsxkKoqICaP7IThTN7GotFTx5D2id",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 361,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "uLMshQQDmCU8CjIBDb6HkyeNvvlnvBvkoF2xvKqkUHcUFuHnZ8WtmxvtlctK4yq6",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 362,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "KeLMbz6A5bdTWznTOoz9sAqFtnWO4aJbB6Q8SMnxSeiov4b6nFH4Oe8JG976amfC",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 364,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "joTL9YCaLK913UZbkHEpgELHk3OrtKumHU6ZH73gY0wTYMj2B3I8IZ7uMFvmEN2J",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 366,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "p2Njq96UB8ApAlRKLsuTjndP2AyOxwYLBn3qBpVkyVjjJKo2pptASMArMLICBubD",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 367,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "MidpiPsRbxOh2PyQjY3Dn4445heKtUAiq37a9cklzAUITt4BI9lNtA36A59So9HV",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 369,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "oksjvgT18v6mNiATXuTDE04PcPlh0xEgIvvD5ZCEzQGPozpqRyZZtRqS5Ynz0zWK",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 372,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "mzWHTEMbTwYapPHiXpx1BKv44qAyjqBrDGPFm7Mh0MpCAixjUTdo01bukoUd64nV",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 373,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "9ZlDfCQLkaHPTh0VbiFW8z4TzFP1frG0Se3hi15LIpdB0w9JcC6KCcRYzEJVISab",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 374,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "fo3V9YmYob01sKXlJ1vzZFLXp43CVmhvy0JtFHJs4s1mobR5PIO8bY8kzDQjQVxP",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 376,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "mOeaYPuUWLqAoRTQoiEbgNdtKkxz1yn8ddmIKJOZyXjGh6xLSdBYX6HnaeO1XBdg",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 377,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "k1jNapDrznAAs2dRR8RS3TpTAzPzUx2wfSXJjpnzR3BdQan0QpFSUnfE4ixgtzTN",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 378,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "CFtor5yOyVpaGomCWN0BtFb3OZgXgBt0kcGI7akSwz84KmI7tUoGAMgi04t45R2b",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 379,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "GMjNvOpuVZ9mTOn3KoFLKzToSBLEWl4CVPL23juqu4NbOlPgB0tOkpTcB51YDQb7",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 385,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "yRAVFt9bkgs4uvBx3YjJ5EdmOrReM8nBtemz2WbOlwanGz80XHx1InNuiY8NnsNx",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 386,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "h5w0o1iNSeiL3JcLYEZk0xFLNbSyvrOcBMD0HhEJPoAvd7W2CVNEO4ex57tc5DdA",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 387,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "9TBwbjbHWmgpL9FXTAXRMEzyAn1FOm8wAXykfljMkf4GSxcrPwKZIHv5URRich55",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 388,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "gFgUifF0RQ7LnjKmMi8bz6nqycm0jl37HfgyZr9mmGwhwKPrhsV8DuN7qRQxPk2q",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 389,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "ZSheTJhZYh8YCH1OotXdukywAZ9wBvL8mo4qUOktemHulzHuaHzJNVMMlo6dFaCd",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 390,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "lRklDM9PWMUyp1o5kMLIYdHJXGfEk4B01tuHk2uDiqz8pNJLRFyNjZ58yA7XW4rS",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 392,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "OXH64qGddy4EcFNj6hBnjBy5C6qos5cWPiSYo8K3gdoEP6OS7nCuTBcxzUc1Xmmz",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 393,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "bAP9N7Y1Yc371kOWxkrvX6eyHBPPkPgjcRiDn8Mb3wbWDBlW5uS1cEdy0ptzqHdT",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 394,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "EnKfGuPoEV0JHm4iOTInkM4S3u4MvHgQqPxEHJL1ai4RD0fQBoKk5VdpYo46gmAW",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 397,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "niZc1GFAky1UcPDSG5aSVTw5UjCN4aPszYZU14W3mvETrMIK4V7Ulf8P5xhC511W",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 401,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "6bxgubLNlHlINnn3lAOrSa3rCMA5jMrH3bjz5jg6WGJLkF9h4piuaydPHNXKeSVF",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 403,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "FRNzhifpoceASZcI9ohCMerUzFyUrTICBrDhbS0QA4IJg8btr7tnTnAwQqgz1RiG",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 405,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "W10DSSbR75lu2lSzxLQ6HOt9VEDf0I1YT4e7r2BcI5ebxEd51QT3CJZfqZDpABTm",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 406,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "bWhZqGIDXTc1QiYpG821okZ5Zd7HQNgWEVyQcMHMxcROE0qhjI3yT1VcBETOM8E6",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 407,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "AMjx38KmF5ThKT5Tq69QFZT1ISY2ZqrIGo4gNTdml1E0b1d3avhjEjTf8TFaJEd2",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 408,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "sNK9bupkSCNNIl5ha22ZfszDCfrV3u1nDIkh8D3EnX92LxbwcaGKFIAzmmd5vezT",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 410,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "wfBCcCcnKZvdLnrrHY7pqNb8KB5U57GKHdkTDnvULXUXe4my9wJtuaH7Dwj1eL2y",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 412,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "GqnjcQAORKhebcYMhbu3fguUOlp80yIgLaRNM6JV1tMRJa66NtZuh218perdwo13",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 416,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "3291iiYR7PwmBNglYb8bogMbBS6IgcvcfWOK83tffNBZ5gadyl6nBXMycVgk7Rvz",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 417,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "f49fWj8C4INXecuANBGFsPg8EdamDHRmOJy0wrYWcv38Ek1Ng7QbjaH7Ukxy11r3",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 420,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "9OBCL6oBDxwWBruGcNaiRv7H88qu45Pqr7bpogoQCyYnbyPIHhrtFUIkkTF1aUC8",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 422,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "rG0k6jZkytNZk0oqQPEzRxik9AShOWnCVQWlLIO7H9N9GdH6DFOQNTTBvyfT8lQK",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 423,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "FTNUzWTfr9XvGllnWEd4SVbQYTZZZs6gVtpl6IThCMGcDeNxIolvQxTzSaUZqreg",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 424,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "VB6StO7JIn5h3ZEA7QXknxp3pQNkGNsWRGDfXTZqezMk4TAN25NcROc12mLmmUPe",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 425,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "CXPmqwoVHfTSTrBUH1fOwgs3tHT1l3MlD8XEx1CK3dVfECfPr6G4VgVE8Ru4vfxT",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 426,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "RAgDY4dvThA6F0Uk75xR4Z7IVQRD3y0QqIdxCoDa43rinv0etsAnhLiSSCevZADt",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 429,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "wi9OopVPKGXrDByakNJLdcyhUsXXNIAcPNClNdi4IxsoSWH9re6lX6qPZIfvF0aA",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 433,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "WFfUVBDgLKzLjRqE5Za8PGmT5fo40q7Fp9eOZWt1YqjiLe6k4KpuMvAGcT7Cg0kz",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 437,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "jMdOd8oIA1gc1Qhn3gNvksHiATTu6j6pJHj2G9Rq4rdr7gHEsdq6drtrBIRaBjgN",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 438,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "cOKWIK1kxEbaBI8lhQImuqrqh9UrRY5XlRT9WXTm4kroBFrsbdLVlQH9GOSxDCEZ",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 440,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "XUm3XtZ7oMETZe8kmlLYIUXpIi2Is9r3jYy1BUz26Ckd9dc24iLZplnUNCAvJOtd",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 444,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "vHAtSY8lqJfJ3ESlgmsUqMvPY25wHIFGof1jZq0LSCE1HK8QRhoMCJG2rERZpVqC",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 446,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "W1qml7mwCdnJPXjATcrGB3Iu8FhpUJwdb0mEngGd4J96Svnmk7MXFCAIEdYeJt7S",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 447,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "36wrb9O9KKaGmbyvNSDiCFAIdF4IXdF817KQPZ7ob7AjyxkXshDFdAznu3OJIcNd",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 449,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "VYVTIYwgA28Q5k2efdWW3iJlWYfvGeQiImgefFu6V9cdWNmlVSpt5odayNHjQi4G",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 452,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "Kkb8EmOiFhizgNuwKSngC4Zx1QJfjHeM1oCyeSbY2wM52Nldtx58R6KJMkYLknul",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 453,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "65P113NK9LirlL1IzWDEfrFPLNScEP1p3DaZzePSImOTh8mopedUFHGPlmU1JH5A",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 454,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "14lDr5htRvqiF1enL4Xg98VNHhKj1YpD0TUr0lExQ8LeNVRnIM0eWLm6Ikz0kMeF",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 455,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "xSct9CwIpg7jShMyGU9dY9jWZwRoHuWU6dDQ5Om3ZmrABZZ9KHuXYY1hh7xzgp3B",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 460,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "7DWL2aqCiN4WoQ4Ne50pbjC12IZzHOuXZhtA5ssccuo7yOBSKTyPtmPf3GeXEACo",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 461,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "9d5WOafUl81EjqmkXaY046chy6p4YxD5ckjaar4gMl2UxHtdy8TyoFzk9fb21yD8",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 464,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "r1TRwoKeRRix2lyBWrFLod0PK8Vtn4694ypLItbEs74e8JVi4Lba01v7SukzKlEg",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 465,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "Z9ieDHV23INAU4czH8tOSTAfRjtsd38Pp14vIOY5YGEYNkn234tF38fFLRscEvT2",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 466,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "B2mDXTvHz8sHcDmboxYe8H3ObaDpobO5phi11857IuAug1Uf8fYeolBstHxpw0ii",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 467,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "NH437owOOwMSFBjD8moiRoHfMZmP3f1dqHmuz3Wa2YHwNqhFTa4vX7xKKKIx1pNL",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 469,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "C5Gk1y9eUYwftPeYMqG3dslxnlVm3txETz57Rcvzxvd3yVb6V6iAzqqMkCeMOJnz",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 470,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "151Z6NWyJoNevohpRTnWmCgfhGghTwsvgMlDRWo0Alrc7inyIR0PHGmgoxTkbD1h",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 474,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "J7g0ujxR2ROp75fE4Z1DFCSvyUdG3NSGOaAQkCToZwROX89Pi5NXFqCSc2dkcHx9",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 476,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "0BM4rzfEFoQFDzw3hEkDy2Ek6SYW3Ocbllv0Rrwb3ltjIySIgEfrVy71pnP4gHq5",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 477,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "KMP6CVUgNoVRHVAMoOZGEXSnPHBo7Agkj5OAhRSnPrK1yYPE5btGvc6VEHWJ1sAb",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 481,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "3X1ai2XgEsKiedVRdAI5si8reHtzpunVWtUUeKo3JGhhyhm0bLVkPMnyJkaVEo6L",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 482,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "GeMuoWARBPjZJE6yv5FKt65R9zsnYo2k3saFdhz6q9u76ehYiRsf2dpPvpLI3Moh",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 484,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "fu30lOSezF8OZby03tAJb9m8KAHVIb8Z4NaZ2lPUam4T0r7tGht1UQ4JqOWCJHHv",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 488,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "JGl3iW6DvbJmpoFWa4TirFNlC4lBNEhidiNHSv51SU3igH7xfuvQf8ALt5d3kPhg",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 491,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "QkPrsMGc8Hdu9zcsUPCeP87zGcnZUO9Jlo8XHQmVegnWyRneMyqfYReHjZossGcb",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 492,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "IgHvxoqn3mK6GyztkfsFf29bckozqYxPqhinppJhiSNxFBKyHWvik5hxNynNqeYg",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 493,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "fn24OxgTKw6WqTJXShLA9gYsK8ObLO1pR6xyDEGtesKsUoAzBQmiEMKibxfrNzXN",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 495,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "dN24pYZM93toJiHm1djBZ4hEv9Ld1h7Nn6KEsrGGa641uVkFRzF0HMCqZcwBj5yh",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 496,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "fzpdFzXbOK4cBjLJLaIZ2slJtXwQOop0MOyRnTgy3fFz9FsmA3NYDm4YzcWIQ80k",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 497,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "6iPWE94jPevzTS2EkyBT3HJTPytEhCqdMWmhq2RsIVI71Afo8UVXowir4WRp26xG",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 498,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "fmTMlaqygfQXIHwZnbhuCZ1GWxmAnMx0KgpeKQsnjwkILmMuDwTnU1Ob0eZlSIfe",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 499,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "DXjJAQp7OFPuvQ0BHc3IMrcvQi7AtsTGzBprHHQG3Pfo6UGqIyuT3S38k0LvhGBK",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 502,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "05akQbzTBo5kouZ42Z8Tbsa986t0LSUG2hZNldtSQeOVm3exHUr4Kl3ZBihFZmKF",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 508,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "VurQCFYgSOD8Ykdao61QABWxxWbeA5yFcQajoU7jVWme8Ytc1aByaY9pI7tXj8uS",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 510,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "GbmfJp5HepKvWeBX4ID4f46M1pOblQINLZC4oe6ZCDd2xV0BQtG7FjIPPjKmgkA0",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 513,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "G20QdXEnkk38fSuLTq4yPUmzsVxXesKM9PA3RNohhnXaC0JUe7jSTkWIiFf3IZF8",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 514,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "bczA9oWkSTQGTEVUiyDj9Z7KLdc6AIHJqDCS4SA5WLvsNy2indtjGQ87cGz8D8tb",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 518,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "hly4v8M86mzfT5f92Ccs4h49B6MkNEue8l1qSyezpV7rreOhdDn29azgiTa1u37r",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 520,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "olbqhIDHNNKMA2BaR5Qz59Hp2AnjrCxjxzWm9Au3AQaLAn40kLB4etnF5IfNDJsC",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 522,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "vuMQHJdlr1xKN5skYD2DtRBa0hgn9RKvU4mZCIaj8bxHupRUXo232pN8gGIhculu",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 525,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "VnVVFFRYl8K0vTSFvcfDXViLT7pKRS4O3SON4sWjETUGoKmTsGziQPciSrPd1xES",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 530,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "y3zWDVzDYq7Rs6bmk8fQpFmfLP8cM6qBROBNvTraGiYqmzoXrWH8G8VP7Kuk8ICY",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 531,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "gPMzFEgOIbz9jd22tGZhRnzQRcRopDLDN0iZNmUtJF93q8pOh6csU1E2JQHVBqh5",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 534,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "FPSzWNNOXejm97cqq02MyhAsYYdnaxEv83pgHfmMofp0O9RAO5fUjJCbSDV9Zi95",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 536,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "8SnAJL1vi9e4vcpRyD0P7h1kiWE7tO7d8UjWv8bXlJLMAE3M8XBqR2ni99LK4B00",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 538,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "T2Zj3PQFFfjEwXkOB0aD6g8KTX4XhOd0QKh5YzYrZVEkQHm8iCXjntboTZKjtBgo",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 543,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "xzcwx8rDXICdo5a8GDEdwYl5jFuvv9Cfs2IqtGhOMGMVCKaLarZWQkxhVQtDxH9h",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 544,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "S0fueQuBAZo3gf9385nmD3n0ME9QCg1NpgMQuvaLHqd1CxHY8fHeT3tAdedmfJQK",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 556,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "DmcNuvTlKztpMaSdFHNICik5uvEuCO8EWaQtUfVwxXnIBzeHjPotTyEMMWpxyT7X",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 562,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "H6jjNLmvylcF9KFtnJTF0p6LFg4JVMHXCkHjLAcQJhkC2kXyNzkCPbZOAELZFg8B",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 564,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "jI9UGlcucqVNPTyN6ip0PcMT3k9xc3JxVVCI3JbY9iHVhzmVDtkYcJLiXVLleTZ0",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 566,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "IuwWFnTCbwnilhEMQ0Uc9BBbiZ1mzqUPUGzXf4xxWKrfA4gEtBzQivQioI27rT1l",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 568,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "jgAQDC1zYXMqFfddkQ2WiMcxKI9udnMM842aqEJYJDOhIypBmA1Ymb8UG6xZJ8PF",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 569,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "FBwlP9V5Ei3TFtx0QidmBPv5ykuU9oOUVkVjq0DeUGddtKrxCFK3hjWrWrij8ZX0",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 575,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "LSjpQCxUesc0tSjGRUFenQ0XsuySI022lSnb6XgBYAJ4mkxgDpBDaJrnx1QuUEK7",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 577,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "CzAPXrMBWgjEBTvweYmyIvlfn4FzQkND4moKTWMN1nDWJeFIz5EkpC6vqGPYDInr",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 579,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "JdXCvo41kPHq4UjsAGcPttzBRL4Zwkvrstf2Sd7TlQwdIpQQ9E20cVeTGPBHRLj7",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 581,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "OjUiwtPdZCS6khVWfyPsykq1lPfTk15I0QOTnFwBjKnuh5QogBvVk8DRlenML9wo",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 582,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "fgDSaI7GDPY3UWCgD1wmVkq5IYaefjTiz9d76DEiSyO2PtZeOWICNQttDQ2txIR5",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 584,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "HdkaeS1uOBB7uWyFsqWSq6AEz6aIhbcjoWBfpdM5fWX03EgFKpf4OsgwB2IrIxwA",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 585,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "boCUspyg6B1mg4L5YbdWT4rNerU21jV5daYsNT1fS8PY9nQaSM4vyPPQeMsRNECF",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 586,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "RaCZbA27ELoRJuOvFGjR3ud1pQhsuPnYrQjfWZqDNAh9xy2S6SZPO99S7x8xa9Za",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 587,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "soDrmQl2IfAprJnHFdmG0xxf5iKC5glmvrC2oR5d3ihPqxvatSpZvG9D9ggsLbQi",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 591,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "wBaygG83smBFQOwfEBp3UfiWMLEFzXtlZvvvWy1slLMafCGxUCoh085VWPRQlUh4",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 592,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "nYt9O7s4AQTb2YXgUtA1tIgU4G2LUJJRGSvg2zOcrWNwwiAVSSLhocLQujVQgl59",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 593,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "t0q8mesCPAGwhcEj3d307XNA82cWT2I7FuT1AzbuuW4aadGGgcmAb3fKnbKbjAVj",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 599,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "s4u0RMRLxZlIahAr7Mif8gAMdfK3v3SlHUUMQeGJgz7WcY0os3ARUvfwVCozzNMY",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 600,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "OLlO9q4MpKZ8PNt2nUaZvcdFFN8EoX0swwy5XmIEmk2YrUC6RdbnLvPUWSQwaftn",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 604,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "3kiTJnirPZPnobqWdXtTvmq9yWTdyAnaOmsWyCxdfSDAjscNvypaSJsHghmOXi5J",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 605,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "0MJ8Fyu2MP1bZdOXmAMH9AxW0pL6O8rKBFyXdOrWN9vYucVspGM5FWVLkg6RcKqi",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 606,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "OxsfWZF1xzFdkmahY7bCKpAqdpYtfLVNi2IsCIsJfyZILNF6FPQOl8m8qMiEAKLA",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 611,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "S6g5vjj7VDrXQduT1vKPX1gEp6Plf93nfHV7IhJRrJ8w7EMusIA4UV63iCzYcSrB",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 613,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "YkxALwwaeWWwbvEBobjASKu4HEQdsLtPof0Pj2TxQLHIgtzUNaE5QJU2Cm7ZE6g7",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 614,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "iEs2WDRiPAMVG2W7E0b1VulATgPft1MDXX41qWd1qexlsGwAbKrgdkXdApvDvupU",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 615,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "MGnZbGhqzrWbWkFSMnnNh6LBaF1Cr4gDDz0FdBe4ZeJTY1PFxkjbZFk6BbTUURhM",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 618,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "ReL2N3ZDoPlyaZr04Xso9LB9FQmwTXoZFhb6U7Upk6rE01A5nYQayiE3eM7J3Epj",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 621,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "n69VmdLyszvJpQCqTtlrprFZjS1JEDbCQAJFLMEQaIV2AjgHLfcJpueSFNfFvgiN",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 622,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "jNE1vcBAGMxvm2RZxWElsU3gf9l0wwkkSjedhw8NRp3Aa1H6uoPnx9VrFI4r1nSQ",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 626,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "XDrtqFOdCrZ2FQdeRaKsN6y1ENGBDPhYxYrwk6pMF31K91ANZ8srwgYs6xTK5Txw",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 630,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "5DjwRaH3w93ZTNnwm44ksRpmxFZeBT6n4NJzUNrXC35piMk0UbE7oy3ECCd6sp6t",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 631,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "GYylVKEKFceWpoKqvH4F9fDC9Izox3mWgWzPZV2boIF44VV5ZXz5lhQErO2jAgIn",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 632,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "xnNQVlJIo4MyrCSnSwrlXzlnFo8W0AJzTwbbSBJMllbFVocQcQuPjygFj9dzSzGy",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 638,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "TB9LKyZ1NIFbUB5YeEHkVj7ab5feTwytD4O06moIiCXJTTW04wteeeNvQNj8rwBe",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 639,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "cV8yYimwrbI0HG67BBxDFbrkGrDaUiipEGpiADFIwHniNMticQeNhybeVvTrwmeE",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 641,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "fJx6boISJ3P2JTdnMrVr0MxiQWWGMD6mg7G5VlTVHYThwfsRReudVsqcFetXmkyv",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 643,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "XudQhwCVDgMBBpHFzVuj8xTuatXHBdngU0OtoH7yXufVhSpzY7JQATB2JHLoJbCs",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 644,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "XQluQhlTckqiMemhiv5utSDXGMU9SymlY3F47N4E7D27aZK8CbBStEd0qWFVv1nx",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 645,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "1zBx2qDMdNP3AigwT28ddWLVbnvfRNrLVKsXxGdGwAsSu9V26LQHCJ4S7ObzochM",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 648,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "21rWhLCCNiKYidThIsGEwrX2BooKm4Sm53UVo1xb4OxZOCRn4142JLOJ70Yeo1Mo",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 649,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "Pk9dL2mVjsCi5WDuC3y18X1bFcFYUgXcRCwyVN7uhFoiPEx3p6gWdIeFQNBir1dr",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 650,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "CVZoiyTCXZyFcBkYzG5N5iueJOR4CEwzNwPxzCvwF02QhZZvPBkvEAH75kmlgkw1",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 652,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "hVmMPKatZxAEmZiFy5prJqI8XEVFf39C23uVGaP4Iipos0k6mOr3y2wur6pujvNf",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 653,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "gIKcUn2ayahlfMQxYQ3sESPWTCbq9PYvZ2OZS86GqjxKeyZK2hzdYWuGr5cBgvyu",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 656,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "fTImFHCrwErZPy91LNjzIE85hUFauokWk9BuraYO2A7LIS0gEiKmA4sqHuDlGAsk",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 661,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "vZMeD5P7S5fgp0OD23peFX8SDhjtu1Vz0QMzE5HTzGYYle2sy2bVOHJ8AzzSAsdR",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 663,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "V8XkVwmVaIXikGppUwaBnHgSnoriIB0avZ4TLJTqJHklw3TKqiu6Bidu8XRZNt5h",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 667,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "6L0QyWk7dypXDeQnynGNCzBSEugszA3Q6zIW5KuE6FXsF9zo7D1pTYmQ8THhNX7M",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 669,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "0GODHwJ4MnwjLPBoEcploFx82V5NqHu4vaMoyryGQ6sdJEUB3eCtp8BInxksTh02",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 671,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "RvMrmJGrgkpyPWqAbXclYwfTOMvt1T9MwseH3wRS5aJkssmMjtSmI3ZgYzvRsNKK",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 675,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "sL9YdHuDkFr0EVxD6Xp3SKznQaManobPF0GPzxf3oj5ZPfCqgho91pTFvy3k53YI",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 677,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "DviNSFVxQoahLdXyXr47ykYntfYdQhJ51JkRjTeOVd3BnQixoirFBS5crYQsM0xs",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 683,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "fYANpyOwVnJLq5a1cqZLHulz5BfOLgQQXpTXlocXYeqIGBICH2soMRFUTaHjperT",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 689,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "iPHAzkqpuvYw8YOx4p2yhX9zPvlbWf9oq2zVLEAjfT6bpf1XMlnOAOOiz6FehXE0",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 691,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "Q0zevrWugzAYMByyyjv4zPgx2IMTv9sULkyG0cfNywrkxbOWlbY5TEBIb3FfdmpI",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 692,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "ZvZesxXhA2ahzzPfdhbV5DSUtd8xWYPobU0PZt5UjT9ctnxZ943CdQkGcaKTtxN0",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 698,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "UIeH1ztgu4axThum2vu2LE2Hc3niFNQfdysKYGMRjrPGYJgR9SyJOalaqxY5mkFg",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 699,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "16i1p0yuszdCDquc7Q3IpIslDAaFqejgus74wYBo8UTKsACGj3OYorYMpWPSiyaJ",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 700,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "KWLktBPwzfJQuvvo0oPwgmJaTkOAHImcHK7FFi1PBCCHYBPJ4gWQT3ZUmlwqO2OW",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 701,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "RbJYDvIOAPlR1QONcTdsRPd7rRQvlytAlFjPxdCNLcrzIXnoCWnKbBBwYHpt1OkR",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 702,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "ykKOs1c5bd8mbP06vVYEHnYBwvOpHZy8a4qWs6wxke0wPuwQwRThCMJoVUZCivif",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 704,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "0KCCl3c970SFY7aHxagCzoLa8yck24rFadG52e3Crxey2WatQ2NSewr8l0rT8NwM",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 705,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "VY3JHUzqOKgaTOS15IZprk9bEqbIiOtnWlKQIHHk1ISUYwKb7rjKI4sF9RI5c8Wj",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 707,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "pURMxZImUNgoWtj80A1RsfBI5HSMTTE6SfBiWH1lRBre4a3rpQqO1xNVgshZOmnA",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 710,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "FHfRNkb0YYZeDaE8FlgKgy5JcdoHETjgV99jEsFKOljBuP5ruUoxIu2z4zQDzavT",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 712,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "0lnDPoockRo2fouChmsVqxSUvKkeiDq83y2KbhoP2hSCDzhSSpicLqi0powKycOg",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 715,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "ehDhDo2RkcsjKUv3w6Tda3OMGjj6B9BOQrPYaIiHPQ8YdgRhrADkM6lwExkb06Qn",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 716,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "1ZowQW8cVyg9lEkuSZcLrQ3mSZoqFWxu5w3YkWGTnUHNS5m5HzKpdb90qqAhwFKR",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 722,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "olUXkD5zU1HRh7n1QLfXOzFy40q8szaiGyhhGiJg0WClvlPmqem5h7lq3cMC6nAO",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 723,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "wyyq394a8WoSTL3tZCbybOyxHjhpjUJawDmGeKCg0XGtFKDTE4FOCD1LKfyN2Tlz",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 728,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "s5ypQtmHqyU2s4UReJWMBALR4ssCYbfmbV79j3Y3eh1vVcrqtQzQp7BGpQl6sBpM",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 729,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "LXzRFB3ZiBRaJq9psk2EoQFsvFfudayEEOkhvjQU5OAE9kWbalFyMya5Q32kAKmZ",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 730,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "82me9WzZ9ci0LhKH55gK1nlppxSkGstgfmmaIKZCoz8jETKXCnwTiDp2DjVR8b6f",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 731,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "xD6yIdUVryi3kL16D5Wh3LpRWE109pHY2cI7SGUYmxY5gDKAj3LaIgMidvUDUfgF",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 732,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "qhagzarqhRXJqpuoxEMGAk2rNxbpzrjR4hITF2VRk48qZRDwTyK1A4K8u5aUMnQ3",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 733,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "JNvUuGNsZIflKWiCRYOTUYGouaq8PbRlZDM69DwMpdkE4u2xzktniQzZnbe6nD2m",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 734,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "BlDledMf6BkLsbFQimcaRcJvnndE80j7GeYCz9QoHUeCycwOfOk4trIrGn66dxYT",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 738,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "slTjNKL798yZ7b3oWmCoHAQuxuNgVmzBYJ9kkXwSmLYmjVQjP7bWhlg2C5iKIEE8",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 744,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "ieOqa5sz1OHVGZOnTtUYBAzRRTwphqaxekkv19qU0eq1Zluw8AD5TTuzE0cc9oSZ",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 747,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "9yfFFOtEUypsNpYvW7ln9iLsuVkKbkJXoTuj57O5QhMN6uOAJrabYE9d1rMvtxKm",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 749,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "YX3eVkTdmkioDu3dLWsBliyfa3kNLFMINg2zleRk3Jj30IleGCXgwSWONLK6icQ9",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 752,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "6DGshbMLgQ9ptjVndRpep2UqJXm7hUxnYJAxH1nRvIzKevpU2uenNfmyeyDliVae",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 754,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "pv2YxjnhxJ85NJCx2XgHyAT2XwBPAPD7VrEVgJlt36DKci8Mwxid3B3byte7MYag",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 758,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "gRLDGD9tjDfSeZMlAUr91kK6C5frRJW500MbXmCmRCr1OnnTqAmV14LQTNW3WT2l",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 762,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "UkzemWixZsS8Z3ILVzr6o1UpgVcnO5rUYcHQTTaERzYIvkXOlXPHKaO6qP6PFeH0",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 766,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "ihqVTkWDkItCYUSwnoBWhKFuStE9y79WLWGIbrxmRKs1JB78jTGGSuGDWcjnyIsk",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 769,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "Ha84Wct56pt4bFLPrpL1DIXlmqA6SnzSbaBIGrnywSqInqXjP7jc3iN8O6jTDUbq",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 772,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "LSt2zt6J9VGZ2xiFDRu048VIFrpNPv7m8jwIJfBL0IQKMHhiyBioh8q1MM0q7JQU",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 773,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "2Un0tngmYjISSTpFidEBL6W8fzsEvTY4xeeHGBnAxEVKAoCP5krWmtgPUFo7PsEn",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 776,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "cKKRWqwa5HC4tJyClZyOfcBofpo8APcWBYTUiMH5m2I2ALudBAB5cJ7Hfa9E8yMH",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 780,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "BAu8M0fPcFSVhqTaZgSYRsEtLrB810ZiJMSGCNUvmuzk3bZQS56Mcq3viXWQpSx2",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 783,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "TRB988uPKG8ZUotEnGsnkeLZabjgTHSM9xDaP8Xd4TAGdjssYBmISbIkuJ6lVjkT",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 784,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "ndZ6zArRT4EGQoGAWarL1NOraDrGtFWX90zl2Fh7H6bImUX1D89yWUaPTZqMOmxS",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 786,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "wMIQbdKqY9T1KM0nBxcaLgyudGuBYP7VQkUE9cVDWuHF6tNNI6xPEiyzf1P2Ad5N",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 787,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "aUfXStHF3CvodF6JH0LIckOx7rodRMcAjUoOuFU4UFVWn5yeN0975r55sfiym45w",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 789,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "JwqxiWxpuv9SfbJz0Xyztx0jJJixaWhQp5Ihg6xImwKWLQ7rduhsoCt0hdvO8VBi",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 791,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "lDEASCBwpkWREWX5kWkybwwOuLZw7pPaJuqZJWQYOFthQXm4lEJNKHo5tZiOUZg9",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 796,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "yZzjHubTncL2J3T9DumDnfZcphscHKbog3cW2SudR7da316XhXKtcPaOQ8TsWbkX",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 800,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "kmwQ16VgRkQyhTdcFlEqbcSb4ztPGbPZIoZKyF4hdISSzqDPffxoEQJPXsUEeMdq",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 806,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "a58ytloZCrED6hk9GamkOf3BYBCEFNekOicl2pUrK7uVmpw76njJlxzSV6TDuMdy",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 809,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "kI9Z5768C1LEjUIg9mWlMJpgOUA452Ifb0XALcU4KA2syTrSTpY1bbqvFOx8zDxp",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 811,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "tuauZ7RtcQRNAoBV3gyXLv5iSsBj4m6nhi7Nf5tf9fTtJiLWHxEBejdI2WlwPGif",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 812,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "yqrenIRU8mu6m4rhvwCUBvwBarPboksbllZeIItUJd15aC6P6l8fT5x8iVZ11Qil",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 815,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "siOPaY5IofoT1crn98Yn4KNVMmvOy86qgEyw4Ktw9RuDrWKWFDWBECuz01zXfz6D",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 817,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "YhjY2Ai24N76rn9lXJfzJZElSCJkUBzZ0BF3lPEImyePj6nrhTmOsrY3Slc34eTH",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 824,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "bIpJmPDf4dP5isfjJrPJ8mYI1L4D3bQr1SYKNWrsyWBQf4SDeMSA49Lsl5tbZEBV",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 825,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "24WTEUkX9jEdf7I7osz3nva51tpPH926uAotOr9X21xY7lwxrqycY2A48Nzx4536",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 828,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "kpWuNebu0WiIvKxWyODq4cavSGq5rbESpivYdmNJ7UUzMEQsTnq5jaIqUGYhf6bo",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 829,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "OzPCGFMDkiZZBb0eSj2kvDlMY3vQCiolvSgL5HSps4ShPQ9HxsP3H4W8bLERxgxX",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 832,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "ZYgoWJbBgeA9JdZM7yspJ18RKPn7SkmdqtGBVwuERiwWtp242DgcGtLVPMMFqPMz",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 836,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "nRP7eMuaFzzlWbGLcoSnGbrJwdp0tGuksftcn2ar38bzvx7XxTSa9FGc3Gxg4M3e",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 837,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "nECOTATAxVwpqe2nNRzUR8vxaIaqYFNTe8nyylHgCxGzyJfVoc1ZoH32GIKdBF9L",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 842,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "JPxXUW8jNRCm6SDo7PidQgBU9IhR3vD9H53UfTBnYCbWboyH3fHFhAYRCgCEPlc6",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 843,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "o20J9kXCbAdB7v1shTJ3jSJNiwxqEsp9lZIjyZfexDg8FesBVU87s8HQxUfxEdSL",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 844,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "9gF6ddNjsIScZtTJYKzt3QYsHHOMO0RG0yM4k8E3NI0hOGwgv4CLaeyUSr56RKwj",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 845,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "r7IMAl3CfMGQY1EpoOcKOM8LEy1ssxmAZFoI0qfqGeDj1kmOza2OwYKPRWccgQ1V",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 847,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "l1sGh7512lnsSBPMLT9pH0lsOazu9hVF5yKr8fh4JNs3OAoiaNIDVVPiLHD2FF24",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 850,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "FuwHhKDbfRubYGx1OkproW8TMVMvFgZkPJUXOPqY6ypgJzNQzgx0VLvwbb8PrxJt",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 852,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "1heA3yEIg5BCE1mu53oJuK7ClPgd6jXbuZvbot8owiHijWNMTEC5RfBKfsEBw6xf",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 854,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "YF8K2pchBFfXwDmtrnFSzRatxrmcJ1tQGm6ks0G0Hg6W0dEf0acoOQQBF2Nkaa4j",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 855,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "apaits0Kp1iMkLhKDyeTYGYBtRjFsYkci2OjsYo9zqDSjU1hrccCFjnM1SkQYACu",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 857,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "sT3P9I2ppWLLmRoOrl4fnbUdqPvkwYLDGrEmtPAJ5shajRVCFlZDEEGLVKbTmHK8",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 859,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "JLSNNhaK8sISm5K82U1YwQwmjwJyH3dD04dygXLKnTWostJ3dA9EfBaAxyyU3fr3",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 861,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "kN0UewVwR3XCGxvta5flLt2ve3bRSye1SbvOq93ZvHRfEUn2hJaAcQ5SmCVS4hpE",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 864,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "tKwcBwqqo5iSqdn3stB3vIKgSyeKtXbLrdo7wVRM5x22VQdkbi6EHQZitF0bDmim",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 868,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "YRWM4GCXQjAgDwHAeEVBU3xtRl7SFM8e5HeGLhIWshh0j69juz3RNzCQUQ7SS4a3",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 869,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "SxbMfwIcsYclqEOSMFupeYqORHDYwi6JFGjpNp0uKBqyclnhCb4EA7iR1Wt3YAmK",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 872,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "1ADvd53z0IWPa9LB5I6FeJXmdcCzsLSua3Lihqyz7E3mCFTODyAwmbXRlUb0CXyZ",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 874,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "SVHCUNoH61UnT8UJcu7ZROEaEb8oNXFa2ugWvP97p22jwsFbO3yzlSdZeXG4FHY4",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 875,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "3jWUXjeBpZ00DU4SxY27Q1IUDQOjG8EAt8kOZrChEnqMtof9HyAq43Wz7DWsM8Ud",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 878,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "bu9LXEKJvZmC5Ck0Jvi7gzLJGzZj1HNlFrbpRk6rlhB86CjhzE5ZMj62f7b6FqYk",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 879,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "S52iDGQXDruk5isTKUqIG10q3fmwWXTyeJEPac2N0ZEGzGgOVefKYDPyIucmWhiA",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 882,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "68G7uelHEhwrPwllltnGFpYiTGXeFHAbuwcXgIxhmq1h8vM1YbjICTpLbgtJHOqQ",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 885,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "lsFIeyuADc1aDxTW4mhV2xhRZW7GFwo5i4xFN7twyVCHTmic0lZrD1zZhTQpKgmZ",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 888,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "YpjFeAHqEvGRetdHODY3cR2vFCK4ctZrk4FihBqlUeGb91xTcWwFdaoumPWSNdNJ",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 889,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "1XaJVedlx2tNZc2EOaXbOOOVslDi1zQtzLXxdhaaxdNRNQD06URyEHU7wxKFdYTF",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 893,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "dwzD9IWgKANAAXgqu2GLbwruz4jGlgHQ8dEhZ8vIaNc3CW3sCeH1XRkEG3bwvj4z",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 895,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "638UYgknvS0geIvE0rLQIRng0PnbxmrmJoqJGu75YJb5THuLKuwt2WVP8BBMAzPs",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 897,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "eAgwvcGjUftmLcdYDEupC4xmfNXEfWWzoCAz8bYsIC1mwct9IDEuiYxRbD4dwxxT",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 899,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "8lG9UbM1lOt1kmofQoqGHHbYNplRgqibZTVAnM5aNT7faKR2F2HdtXy2hMupstE8",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 904,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "M96oL4oJRKczAHIlrwgMoJujjUbYSoLIN9WypZ6wTZrTRcIloFvZEB6uIY8tWJ8b",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 905,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "NX16NcWa5KAyVEU40eVnCgLnYKthJo5GaLlN9Y2LdT3FGpLJheZCLXahRdtQlBBE",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 910,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "XCxzAGGvt75cygso7AyvCyPHmgtTKvPLph1Z3kEYEtyLxPB1bIcIoRdrdApgNCwg",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 911,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "4B7vZXiJmvc0RR4RNmc1xIKgiTA2bp5eKMwbOUQQ1yEW1tj5ptegaupBwVzVf1ra",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 913,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "Lf2FTaCqohWyqLPXLjUTsp2W4CWEiMkNZj4429tfLvV6lKlso21TghZaNUWgeHHb",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 916,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "zaO3UZm6B5FgLPtV36uNgEeoeEl6YNff07kflG7g3nCPrGL74t2xocZRLLMuqRCv",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 918,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "yBxilUx2ihLSBwbofxMMmF7HQXmcPEIBAP082HVkwwC9JfinFfb2E8ZtL7A7pGG9",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 924,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "0Lwtx3zHpvLvutEswNzrkaVvvtL2oO21bgE9n9epT4Hb8Li8tyA8VrlLKe9uZCSO",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 932,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "ixS4STFhnhr2wnKuEr0JOPxEoWhoIXjT3DFLdEzU9tG1Z7mO71HCulT2c4m0vlER",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 934,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "goSwdbreMhkethhfLVVtX93jAo4dvJNVvv2i2atoDzqwZeN5E0O4P0FBeijRAQUg",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 939,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "NruGG4gAHWpIA1DAyCSgGcy8FJEUlsLisGw4Jm8Ky8gn3NEbq2br6an2mZdg86zP",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 941,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "A4qh6od9P7kkIU7wG1s9boubSQnuSWG6VwYxpj8GKJLQ5M05NujZsu0xjeuDizbD",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 945,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "YGrkXI8C5kMQbcyzbJILQtV5dwX697uz69APKpNmvfIrvK2dmEyV3CYgCOCh742x",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 949,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "TIWlGYFnE75sB5MhohNoDt3ZRzmTbUR8ISJ0HZOdhADHMiDuH7Uqvvf5c5bj5hpW",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 952,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "zZ51eyZhM9yC1zUL1xTLj96pvE7PawBgzJrrDH64bGdB0livdGCLibAUnTkkBdb2",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 954,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "FI3Ay74XmDpG3MxaK4hRjIAhT6ndVRCqzQfBdsBPKJHa3fARRBHhUIjifnF4Ec5d",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 956,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "lurFUr6uDjmrFSmAKE5BBe81alz8nlAWEjtfbDkaARyw2SkX0ntU8Lp9M4dHIEHD",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 957,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "AFODdWng0BqZsN6Lqgym3FbDzHPf0mzaSM8omrIBQWF51LIEa9Ung9NfAcAPQSs1",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 958,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "ebfCcH3tifrM101mxcnu2bj5ZLPiahe7SOTpcwFOQ0hmxmkVzJmnHj1I3mqcryY6",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 959,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "5wjlo1PUHTGTxm1g0CkBSP88ZY1UJxG8FcbrZyUNE8Cza5Dd7HVdpruaXHe3hi6U",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 960,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "MGwObZE92aDPmOLpxbLQFnmVGI9g56YrjZuEHr4EF1vueaJ5jF18K4wEbKPWJWsG",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 964,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "HMXuNZu5NfHf82TLyzftZPLAVKihdIykD1eSNSgvCltLfKpKF5xHir7YAH88Ct9i",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 967,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "HQ0jTi8LDpYkxG1HxB4priLvUPyVzX16EMo7VolsW0MZqYUmRNKymeKvK6w5OvXX",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 970,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "pDqn2gQPzqnwDRXprBsFDsXgRFEpsONE5Y50O6cTIXf149wwBdnLGY2icGgOkiRC",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 972,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "YIU83aKDHTl6Dazu0q6wRtvGouqETl6BRiesbKarUoOZrPsCsCL0Q2d6YPRcygrA",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 976,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "dKVxV10PN3Q50djZvyyI5mZq91QpziLSFuWxprbGGsIUE68w7Mm8tHYBaB1VfFAP",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 977,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "2mJPvsRZdKoHF3u7egC6LKH2bVljTWRiEOLNY7e91RE1PNJMxA9KEoueDeytdmQh",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 981,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "YOiEUg0p8pHctpsBIZge2oL0CZUTordcSeUT3P58eJZBhY6rPXalVqBzzLBRZyWq",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 982,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "bMfmQIZo5aq0fFbQX0ucDDqenX1cTMGboR3WkG470noQWt4a6fKJoqHwcCc1RTSM",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 984,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "xxHT3c27cgbguzRNXvJdE4Qz4OZpQzh7Q3ogGZMzrKPEPKpjcLnsmNY3IuSUFDL1",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 985,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "EccLvGg0AGn1XlNgZRkllJ2lCzIW4cvOQt2z7cPz1FzNkjF2y4NVwH99pVEi5i2U",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 987,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "QGCdr5086VTqAN0zqWv8FZdHDWcIyEIcQKYlxnc79fdh6KhQeM1n0wO8r5Kf75Cx",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 990,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "fSNoAsPq0WmmqcFkmKeFW5rqcUz6y5oCkJLFDhKJWRbqkGJcAZyCnqghK9S9tq3i",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 991,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "kQaeSTyWAIv69WY88oLIHwtmG3vsYEhU2AUxd6YwKo1iCvNvSrkZclEsYOiCzDas",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 992,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "uAeKmNLVzyhEU44lS2EgLc9HzQQlvj6f7fXVn4rAMxFZEKUXmw5hFGeVCwF0vdR1",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 997,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "kVkFUXfuEMD4IHUjdB1muWOpX4RcL7FacrbeRIshhDv0DJrmx2jeKPXg5sUalXM1",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 999,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "k9kXHVjGulwdY7vEccAyrXz8nNr99ObA8H5NmfaG14X4SJCMd2Dtexw59zaCCfYi",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1002,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "6weDhsS8d1qLG2cOe8CpLMYDaUgbf0UXsJHPzEteIF4Ofk42X5FlauWrmg8nLZez",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1005,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "Y38FxRjws5OtzV3OXc0HNlVzaf8ojkuxPsRttNozL9ilbOxKyhQgwzHChEqZMafT",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1006,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "CZxFLrxgqKQtFkMVo8i2rQlRxIKzphu0TdfrOnL9dCt6Bl1zOq1Qb7I6wFq5O3ty",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1007,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "w6nZ3y22AIJFUOVk6bB83OrVCXxZz8Q4Y8kYZxlpFps4Z3Ecj1EuuM2SpuiwAcAW",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1010,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "hNsdUUF3F97Q4k0NtoGvR2RCTItQSoId0cejNnzkXwEWFPcSOKEtg6I8rraqLWiZ",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1012,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "dWZeioxOZwBn6eJsXdGq2VgB7hq8psdfO9Nk9ZO3IrKrTGXrM1AQUPQ8DObF00DY",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1018,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "aKUuW4hwHlPmeIQ1ViwzvVlx8Q112aqjqjm18p9wt5Ks2nnFHbIH1Zbu1dHAKzpO",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1019,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "NtjYimSxERRTxPGhSwtyYuxxc2UmrNeXIdstBoEVoGQyRMdAoMKfJB2kVLzot736",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1022,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "XO7wyGsJmvcn2CLHhDN6kKbbe7FjZICgfONLVOJjPSX0h6ahxka1epspWHTHT6fo",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1024,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "ASFGw3SLik1w7EIZhh4upVcwSyp4flP9mOHEeDxq6yBeqbC1RrU2kwDiI1SGnEsH",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1028,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "Tm6nsLKpbk9zxgDOeqm63sPONOd1aUyyqQACD57YHsG8WLMehoG4WAMekMaRDDLl",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1029,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "uDOp7YIwW7Z3iuqKKrUOSTBhogoY1NAUcP7UFZ7faEYBRn8WM5CwHWlOnjtBCbdt",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1030,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "Qg5T4VhPA8KaCmtWsYbb9cHfrSzL9ZeIQ0zsGgfZM4tmOuhX5POXa15vJccqu85X",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1034,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "kt0yS4P7SeMasWofZhD7G4ZudSueaLwINQJkSPBOikiapkhN0ECVbCJJJZMa0eMp",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1036,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "rduGr6B3ds3z7CvLdr26qCuWZnqhIL3SfrXZNHgQOqyoaFaAWfoMKvU5r5Ghiuy4",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1037,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "DVLez3mpJnGb85lgzsR7wdBYHm4nhMu7rWkgRnJ3a4gq4AJg1HmRopcWIpZ2QicQ",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1047,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "xw3gQu9BzPphsQuV5lGTKSoet9cIKvPar0lh0QMusQ60CzHprQIblk3HI4aOtn5g",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1048,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "383NuIYD8ix2UvNGw3nnCMhvsk6wN4vX5ZIt4SxXWehO8aQ2uyyqxCb2LzccAtwX",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1049,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "POXEgUMxAmscxlZk1RUU4NqhpDdPcM5bLXv2iye6XsNiFyDL4jNQ6iXRtl3WpjtJ",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1052,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "ABc0mTgtu8evbPjov9hSosxA3pbfJMRDQUuVTmaSK5sNb8ip4vQUDJVs0RYfPiQv",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1053,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "gybOEbhaXel3epaKLvcuGYhrzUt1Rt4AL0Pm23YX9d9e7J3Cjmel3l9SPXaFyif3",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1056,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "ogtqiRnnvorxSgRSkcUIvY1nkV6ItnslFM0gct2EmHsd1JdIA1xrSZA6ComUr4rX",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1060,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "tFP9Idy15OIuu9UXl0O2lrpA58NmPyWAazdDos5JjMtr7EyBQaz1HVit6SwrmuHE",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1061,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "gamKfh6MyBg4PDu1JUkHJhoVLr2N8XpezMNpTGNwJ9zUNiNMVJU2iqr0YaHgknlx",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1066,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "92ekRStrTuKDDE4T1hRD5rdQC5GaWLCpB22iGwe3eFgfJGhLLxliWxIOMEsSA11M",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1069,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "aq1hoHwUzH7SACIwLNbwOUpZcWeXEJJaymcueZV3YjDLB8LNCZR9sp7WqItLOVU4",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1074,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "z0L1z00RzY2DDKAQGVMsyMWqY44ol6NbZYZ08FhLluAqpmU3YN4SUR2IldnZL2Od",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1076,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "VPPWEEd9mIHrDAm1rBZw2Tm6i34oMiS33n6iR5yW63Tji8qxcaSiB1KaTvtBGWJv",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1081,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "AU9Qf62oYvfIkP7a8oaIgbY9RLt29ZygqGdOpgff96D0oWivHx73dmIDyBjVObTk",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1082,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "kAllNOguGWKXJjMqhtRXV2X75fnR4p3bQNe4J0vahqzDfQxVfUFJivmLy4OAOxCP",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1083,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "2RVd6IY6HMrlUD8iKBQQ83GfOAD4nJSc34LbyuORtOvTwuLDXYbLVtXlxZ2g7x7G",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1084,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "1p3Pn9nzJiTphEIH8UtXAHwCF0LJz0iazpvNTt2ngpkFJ6gZXMndyRPBBvBcYHSb",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1092,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "3Uom9wwslRMOfRf30SD7z51iqRxQHFm247myl4b9DgNNvqQ1QpnBTusKuNczrs0g",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1094,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "lqEuONuMAm2YHMRQHZEfCCz8oulGoFyJYnYH2AOMbVjSjNygB78zOXlpfWrwpOYi",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1096,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "c4wkY5C9T95KgUaWwQn9BxwKdsHrkMpXEsW9YqopAjWU9mTWUjQy1GbwVPDImGhj",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1098,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "2ACDfwCo7jc2ndCj1ohDCnTIieXhbJ9ZvuB7oto1CPQgICtjmES2QtNAXPUPbOhL",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1099,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "HrmzGSRNTpLf0b1lyGovYUVTRWDvH37c0A9CRERyCvahd8R87VNJsxbvW1Uba5TM",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1100,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "wQjTY6m8lNfpnoY0B4r3xuC4q4BTrzSCj7VLfIUTqxQf5KLfXMGTKUmcJWkCxdW6",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1102,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "bizdBrqmeHOwgSqmA6F3CizWvn0SPXLGfFU1hTCtrfsTIg5hW8EQSJzAoZcy7EW4",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1103,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "ypkq49UpUXKiEUNXfQLvAb2rHN1ovxULLjpl8MMOMu63iKoH6OFYXM2wi5V3NLGU",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1106,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "6sBUaSfzAQNXepKVWszjKLYZj1pzwgdtCvA0wXywocjJRAps2HNRjUnO51LblgmB",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1107,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "V2OpPORaL0Jk020RD8qTsx6lnNMgAfardWN0xie27DYeoRQJJ7EQOjwJrnGFKSwx",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1108,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "ezfr6ZayhxM40AJOE3qrAOYYgN6TFDAufcXChVn0Di4UVXqCD55W4HBSMgrREhA3",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1109,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "76mj2vFJkWs3FXVVomjrvyxsVG7p0qFo2T3pIy1P4LKbOZ5YyCTaVumvH4WkJqxY",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1111,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "YjZe4LCAeEausapVwqXLQFfQ3pkM2jZlyNiyumwQi4mnl85yDIzDXNmeQXy7NqsY",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1113,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "S6m9i1x3PQgFQOy6S3VuYFrksVIrTghWSko71L9tJ0MEbsmUp3S5D0c6a3AfUFyw",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1115,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "acN7WBmLmSB0SaLSmQrFBCl5eHslFkWR4nHEpZkJBgB4dSsaiujiJhPKl2dLEWoO",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1116,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "oXL74IJVJaAqBipjvITz1Vp4CWc61HO3t24CN3wOxi9eY1XPvM0feosoSiFL96u4",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1118,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "ubhwpC7QZBQBX6sxDUhH7hCmzeH6IGmw9yLrD7wngI5atG8DPg4Q0Iv9s3DSodzj",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1119,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "QEeoOCGrW0noorAAuWftl5SboSqjcGELAHnjazIaGXsGHvl4zFboS9F5B2CHMa48",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1124,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "w66fW2HRXR9y5cJS3mJA2DPIcmZtxsaNLpkvJHBff5D3hakwV6EdUKrc9laSxMp4",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1125,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "Qe8HXVXOSEf73WLkR5JizeTa6i5D4hUjGJSQ416xM8cvXxzDYTXLayFlMuViTua0",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1127,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "HLrtALY1KKsU69F0zvF683msiw0eIkanvy7hXSIfkdtZWZ3MBFmS5u93Ikr5gxSn",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1128,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "NngoGFHBHeUWU2CK3vsPYxHFA7uSvz45U2UHduKtEgIDqqGcg1blSWAhgIF4jU57",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1132,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "qvpzPXClTZ5h5BuYzk7rtND0dxquQnhaMcae0xrinlYWvkSBk9vjdMwaIGu9lWqZ",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1133,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "Bz2Vt3tEb5sIpcdMhXaRE23ig4gXaPYYE0gJdQXgREl0RSLbtmyyl4maJp2OB6JV",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1135,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "qkyUWB78DZRYd1CeCVBmjeDZKe6UYiSxhcUO9TaaslJ6FLeWw8gcpUWPtALuAVS1",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1136,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "xsZUQhIjeL1ELgfzKohs8fBOvpOWiU36sBf6GzLm3H92Z444oHjXXhfQ9plF3A1J",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1137,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "cgurtbvDrgQFzm1c2QF3888SLW9v7Jk5vb41IIQQa3baf8Lh72i1Hsx9hjLT6pbr",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1138,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "LfbAsvNXrnl4hIUSDhv1lS4szzqQElT0zKrvwaQgtP16HWxUMxuuIMrpk5Le7CXl",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1140,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "h5DcFdzsb8OKLrP1bi1xW3DcKSj340gPpufSyAlpMBVR9Cvh9Cel62xDmEPBFq5J",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1148,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "YBMcT7n2XxJyd1wKJhv4JwK3B2JDlclPwmGyWcp5wFmji0jKgMowBmliNaq7FMXt",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1150,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "F7RpWcQmKFXOQXV3l1mSh5UpwHdsrAL3MKfSmX82ffxAvpHQbo7WkZJYuecOEUYy",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1152,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "F0NInU552fOf9mukb49zAGPgMKfjimDLSiMlnexwYKMuW9VCMC63oqIjBVvVE0Hg",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1154,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "8cDYa5l384e0ylyc4tKClANPBkW9mLxz6RDPHZGwAvLRSw3Tf1h7yLCzoLrEG7FG",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1156,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "nwV2wjN2FNMLCml7O8ErhWJOgPG74CBUH5Uqx7bTLJ1pSSijAQdYjpKc2HpCc974",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1158,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "EjrjOFukCWwfnQfaNxgfnpRc4ysnLzVb4pdu7xHP1VG7PLjOB21dgOgO5inwyN40",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1160,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "FvlZoUMOk1JDgHc8E6Bn3Cb7wVAWSBvLCi4w5NfjRr351EQk063x3MBzAMHO6XlE",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1162,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "Qo7T530yVETN4Z8PqqqNHGHzj868ntCqs2KPyhTxZU5wjIzvhuRDiOd3pKLTO50H",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1164,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "XjyNMQzxhLAOfkAsbdeAdtlYGuxtwoxUY2Cl6rcD3xOdJZlo0Qq4wOoGA9QUbaDy",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1167,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "yJ5XJL6lkt33r2UcFWITrJDftNBD5p4l5qB3qnV5114zqvn44zB2wNrhzMEDWzhr",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1171,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "KTr74pfapJI98FVEmJZENDZPyQeoBuHGS1csGSEwzZ5p3K5QBl6e1XPgqEHJ97BQ",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1172,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "YHJEVAaoMOH2OKobXJkbXPpq7u57sPpVThu6rXBoPfi9CewhE7wbDZjrGlDwEdsa",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1173,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "m7cwYZ2Qg9XM66Kj3JzzGCeS0sfNi5MkQ3l5tdpbloJQEpnOIOd53ovfX3mwq8e2",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1177,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "SSo7JBFJTzUpjsTQwJFR2H2pvDB6boqokeQjADPOBUwcC4weVHykasaXusxjiWpp",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1179,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "VGXWbujmQoWHLiUW3fayxZyN6vHho9BWZlAAZMwzwyQLG9ThTgTA39EF1AEN2VIS",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1182,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "LCPIoGpV74OZVbIsKlWGAEzdESGxTOuk92zaVXI5ysJEGPgH3gXZzpgOyLriPllN",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1184,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "TJhTF0WLPwuVTsiBmP5B6udkTcIFs2nSWFNSShH1EmfP8nC4dOdJiP21mbdNtF5Z",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1185,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "KcDSVrr3YQlWsTYC0APNWOkF9rEhlGQXkee2qxA8RPnnFYuGqKWaTYtEn1uuQDHD",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1193,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "ps71yVuWgf5OvoLse7Cy9jXT5jDWtUXLPJCqpY3E6W1xN8xbBWlhkoJf2EMSGDam",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1198,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "nWJnSEC5uf8LrsljGGEbWucqjobJe53dv66O0hp9KDcdDaelJgabVQbYoprmQ2wY",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1200,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "2xiERHGHfkvyfYIkpLUHBvXVorZqw9QuSD0845CFgINStYJ0vBcGWGD5OMTeT6fL",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1203,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "v0MKk5uOPIBf4vNXHHX51ooGHDxnYFpA8XCXA9Ryfpa7X0Q2ltRPHFPcxtVOjEac",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1206,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "v2SwL1beT4FTSQsk78m7JMP0fBl6FLMlF0zZeqWLdieVVnjxDZ7Lqrnhgsw55uSQ",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1207,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "bkHZmoJwTfrmxDG6Ap0LH0ZSRSJ4Ys6WUY2m9HVdn4xm5KIEGGBnniVtQpfr6MQD",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1210,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "DCut0C2PT9kgye50PH2lbQg8Tap9L5gJMW649RgjS3c3HSjJvl5qBnAyv5nM5i4N",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1211,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "Zbl7vWllnkXtEb6p02QESs6RL7GW6XnhmbVvnE66yncs21E6z8U7AyO13Z4ZP2he",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1212,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "P3EycZI3oAwyPFvtWH0TyBLYdw8PyEjvAgx9eiVMpHd2wb8VI7c5BbrRDejIuAyr",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1216,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "ydHUKO0bhmJ9ctBfJExSsP0nA6yF2D01n4ujiLRD5eUhMyKwAU7ZY59v6WHRPHuw",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1217,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "dem62UIQnXQaHLWEIBfEtsuBgluAGX0rKgnu8DzRFK8ElFW8kC61e9CnpNG6el6W",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1218,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "MkE6ZKMWXZsPFP0QKCfGpFoUwOqc6uYHmdcdtLkHa8A2uYJdslojL1JgB7El8qPS",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1221,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "YFEeMAA0UUASNJT5huGKedahvpBbuwChCxKdXFRvQiuw4HPbFyiQqvgq8sQy9tZa",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1224,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "ZnQk5f5YupeCR3aIBEaWOt3qKgulXCNuN1jTnKKAmupfvqPyLbKrxKXVfTgduqrw",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1225,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "RcoRypBBeORs9zs1D3pE9eD2sqp5y2NuHblNKRlu87lH3Rte6Ce8nQzt5p0lD9uR",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1226,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "RwgHcfZpUzWpLAcQhvWrVz0ucittk6CbkvcfWH26wzzCrPaT9G8Kpr450mO5fPfR",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1228,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "wD4qIbEvnFj5LrRLWeBLp3T2Wof3M9qCWLqlWG53emW0rVGzmGwHzNAytQm8jn0b",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1231,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "Ttmq6tOap9szyJwvlqsFs10gZqQvPQYmbWSO9ynA4YVFpt86PI19A5k37OKA2toE",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1233,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "iW7AsCEwUi2uv6WQz9ntH08OC0h05B5mjTOVEfZeIQlOmYoeb7udxu4n0iVOKt4y",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1238,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "CtJP0yvwIXWM0KyRiPjKd2VMKcqO01ZKoKtEfMdzG5lpqQ885fZDWRxVbw9m4J6y",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1240,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "J1I2LxCwpmPwdXpeVIay4beWxYJUbgN3zEs8qt9I6wR88s7VH8iUpyMgcpwSsVAJ",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1241,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "I10OWDeIHzsvTjnC8zPpFceBNZvNWNgXMW7szrtkaAIctqxDUzNbyvxXHWgMD4zg",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1244,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "lFrOpywwFxCxQQlB4nIGTjZU7SX2hPFo5ZAd6EX42kfzS4aU1tRB2PyRyQI8dvQD",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1250,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "wEW6TShoqWKHKx33IwOyc0CQg6ZgzHGxKL8xX0qRDdbyzF4IXZyRXnZ99HVJZQy8",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1251,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "Hr0Eoh7xOrsEeBWxmJwmWe2vb6wGGk0XG1qMUAf7AQeCzJl1WWNVHr09djE47ECh",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1255,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "p9jMGsm1BOFcpWPbgqHrm3CyxvCJLgb5H62DEkgrtTjuXrszmUmIMCH4ANjVUGcw",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1256,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "d3SzfpbC3FPYF1FQN4G3XLTNX9Exhfc0Fqv6s64PW1TcKpNKJKKtddsWNRyOKV0k",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1257,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "MKXCK2278CuFinQ7NGvhw8vr8iUwT2OAhuf2ZKZDYpSCuuslGQZBUSl4ToXwfhgA",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1258,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "lmMGZRBgOvXSUHfeW5HIIuemPGomkol1gTRZu6IOT3ybAwzQfmYt8hfYR4z6GGM9",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1259,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "UwoGlojtf1sMzkt1mJpp1lqNy9UeKzHPwh8GcgOj9nCKmQinpsiv9P3v1uqJf3ID",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1260,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "KCbAQ4Ws5FK328Sv45mNyHzkeMEhVPNUNmwigOsVtFTmmACs8AihZhqqj1r95qcr",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1263,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "coJK1JAiGWRsPQA4N6LdyimFrFYXw7hs3p5wzPnlciQFT0CxKyjMW17itBABbDpT",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1267,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "F6SWr4Yc4WOhztc1bvJNIBpd9W1Ckwo5d3LlBjLE7JnOoVONDTeJmWhao5AZ3UHq",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1268,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "ZoEGOLINwodHikCvC1R0Jrvq60M0G6RxNUuuUR097sihrAen3hIVuBA1yqLnCFhn",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1270,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "oVjvDsZgPgm8XHlosPpbK07hARolaS1gsTW2obw007Pn0hGWjfmb79vOtx5RyM9Q",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1273,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "HzdDTumXKuIemKRr2zLikqGMa74YztFIeOeViL5vfBp510ORhCvcyN2fnDB2MeTf",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1275,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "k7cPdsQe7cCOcCxOaOcIkkHi4IL7wduWqjJpEKjRVThXZWDBRSwEbMz9GpxMdEZp",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1278,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "WMJRu9QF15fPPE5jSOY6mDDZbrZkoPxRWXPlSW0svg0uKgj4a7G7DpzmVDVxl3MK",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1282,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "5Kclu3E7m4zZyspUDeeES0JKfp4JD5ZBb1iucvfqYd1DwEKiopFLFKyvL2maY9kw",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1283,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "SdN0NPHZIrxlGPDFfD9BR0aTktHkD2DJxPUKZ9tJe2SqypreNzvENo9Nwb04adK6",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1286,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "gpYVXquz2YcFRf1ZF1d5WmMOBnfwNAE9s7FC4j1u6rH0uVoSIkKxAgTEP1avoKmR",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1288,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "I1d0ZhBX4T3Exultisd6m3Pu3Ps1O8tszahXY2oMyHlkaWOXXxEnlJX5ZlKd4dW5",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1289,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "JyyXiGIH633wOqbVGHsjPQ9M48ErOpsTPBoOrKHAguo0t6kKE2t5rATu4xyW5Rbn",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1291,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "PqTNhe6aryrelORcFhM6b5aw2OY6SPSmeAx1GvHaDzQxAWny5SnDfhDtyW6zGQGu",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1296,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "dMn1OrkH32IJ8KEmUybpHjbBWdrTdFZ9KxOdfjmPjw7KkSJbVJjzLr12DbAJmDlN",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1301,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "8BbQczJPD1Rg41lEos7EZK3tv4ago3yjUeo2Cc7pAUIfTxzbr8kfcv2XqOTnuorT",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1304,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "NlwER5jWX2ph4FSb2fVBzbr6IdidMhB21vtgNTsM2wvhq8V1MBNWkUI3pS7tcuAv",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1308,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "dN0piSFsuqJwGkib8WrECwUU1hyEIpBDEFq884Iy7P0ICJGke9CIfm3q98Qsl2AV",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1309,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "j2Whygh3HCLTu2xg1Bsb1MZHh1q1V4iYHkAFaLQXvcl0kz8tr6OpmmO172wc2DcI",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1310,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "KbPhJBQGwpJxVRz7EdYqycLSMnVrjX1QOtqtuuTuLHLa1cz22EmS00xtQqlpasHv",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1318,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "qcp6ZiOs7RJz7hnrPZTVi8JdU5927ewFlsTbw0rLhDxPTyvqBehTmmtJj9dvMmFd",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1319,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "neRpmU7ATojpJZ5XdTEA4OUTKHvoGNl6UZBqMh9IjtWiaXbEbt3s4robFZEfs5Lr",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1322,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "uuugkqN3Jts7CXzuxLErT43WeiepTYksR30wFJvFK0gaZ0YXSdBZ4Orcma0eoPu5",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1329,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "cykxcy791Fd3IIFj8fBBPctkaYAkSsCgNBN0A9Q7t358thpLAUdtqKjotcb1QFEe",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1333,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "9iiP4x3CFW5srj8ykJkMGpv8RFZPog1BHrWMznpQO8IInYipLzz5EZflgeEhbqlc",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1334,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "aD3CKBvKDG48JLwwr8fmjZhzWN16VC7yfDOjLCezR9bs1NZ3iprpMLfkFKc5PcGD",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1338,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "fnUqHx6zf8TESIJaiNRSFymP2tWr7j910dLOPXmskHTcIiV4IxigbiWD6nWaHz7f",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1340,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "jeoobVzwZ9FL7tk4piK3pFJX32V2haZffyilqf1bI1rwkRZuF7NgLjYJUCUk5JZ5",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1344,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "Vqy8A5xrjGmqzYVgNrpNyGiMLFt8dyDkPpqemCpIo0YyUtlA97U93GLOsslbqHWs",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1346,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "BijfEE2sigaCXRsj5MpmKrPC1f6U6p9eTvV5fyEB0Mtsr5I2B2nFYMKiUWssj4oJ",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1350,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "UyaOPBL9uajiLstfamAytYNu8wzHUJnva32XshPgwrFRA2GUmiJCciDPKj3vKmV9",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1352,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "3JCHGIc6SXEqWwAEFnGsU8uEpweQs1mDyw9yJhe2wABlTEo8pdvu1FC7Rucohvfn",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1358,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "90KxX3OpFQDqOG9T8FDQa117PsJuhscS4nSbBHZ7dkP6bGRc7CskfWj7voriks63",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1361,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "e0LlLTqhjsWwoQKBammfhEo90nGuyimanWAwuNmXuaFMPaf9I6n4oLc40zbnBMW0",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1363,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "3RcDmgcEG5nEJtLv8btUKVbxWVLyKSPiv4OzLlnmK8614Z5MkuBwWKw7dFCcwTfK",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1371,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "2pRKcVMqrE7ayRNIQUkIGeNVh6hJ6gkcvg3YUDPciSHg1KxswFJu1DL8SL61gjma",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1372,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "GM7dSYHYbosXLmk33J36Zpgnz85ZtybqbfVzgi7o1S9PEZ0JpuFdUDPvUeIwmhO0",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1373,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "kSJafYP8WljC7JTbFrNtki9J5K5JvtspSHAaw6b5iVwJXiYFH1uaqPRz1cjdO6cD",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1377,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "R5DUti9PCkbEp6PWKxIXrmTF9LkslC9M7IjATGyCNCVCsrQr0Lj88oJ70Imv7C7k",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1382,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "jzkb9x3JJA4VoeXaecTfeu8KtnWegBXg2RcdY4U3sxlkPNmTiYaV2O5T7SRbTCSo",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1387,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "VEBavqMll1xY8dq6ntwlsj1RBFZSVYOBtY4f4ZtPi03eQ5UnfRMY11WnRDfwVWPM",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1389,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "ujyTGxbPkmNBbSTVcBZf66ZshwnkhAORjwecahWw77cIjm7sYP7H5tOCoSBXEEer",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1390,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "XfmUFIri3S363sAdHPB8CgbRKH3Mxf52Sz4JsHQC3d9rWvgrlPBujJi13WTgoH7E",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1391,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "ogNWxm2v6vVgzo0bAwqpwmvI1MXarM9862T0efyjnZLc68sSell233DWxPH537zS",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1394,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "WpqOGAHOMvgdDngvuM5Wab9M0QjZ8zWE0TDa8c5htTvrDHqQYNfFyCz103Pz1mVT",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1395,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "rzUZjdbIuvj0B91cnWP1rtFohlOx5057D5DplkocmrkWs32OqWNzvbgd0V5gFCf4",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1396,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "qvjW06XNHZhfioGDvlrinNspkbvSJxhwjLc327trswXerOnE4dZFBgvhmcXPo0KZ",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1397,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "zFm0oGlo0OXXNcBk919ukczJuLoaSUXjolyBSKQsLcffnk2gafITHWKjhuDUqBVZ",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1399,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "kwPmGD6o7ofdCUC2ERUrZXqCWHA7TdQiHvU1Fd0lAMfXqQpk479vw3bQouUDcKze",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1407,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "58jj459sIzCcOwYoIp8qk8SWAUregwMyBdm7EfUWwP567yGtuFj5zl6CebD96WwN",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1412,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "GfkZU7HbipaqG43cZLee2rRjctaynmFRnEI610HAeGvDOf8f34lRX6JRmdEMDshx",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1415,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "fTE4lELH7rIfAPRexgazFNjmvuuTFkCIxDbZNpSpgh0kf68YfncobpeZLCA3KIyv",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1417,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "bPlu1qW2jJnF4vmk7emlyegDacbEfsDKC0dtuU84UD96vk7rJ4HZk7hLbj88kCRb",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1419,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "pvmf0C48fph2bNFhf8b1q2Jio2Kpsk5jn2IZPmP3TFVS1AgSasTSquHFdVyBqn7o",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1420,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "Fomxg0pyoFkEoatEp7uCs0WAD273HYVogFpVMCcD9dRTckZG6t7k9kam2Zu7GF6i",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1424,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "7kIwrWyM2Ra4iwdr2h9QujdXDgssha8OEkLpKIyWzjFvqrUdtu1HKLGaYSqSg8Me",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1431,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "6UG4PmflZhZD4gf1di9pxtDOeBmnsMku0cxeysOBQfLogCD2Fm3bsTcW13Cn15WY",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1434,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "WeYTJtfelYMaolWGk5SsaLWkT4FuctDwRbQlEZ7FEXqIrPTVwsKL8J9XqFaMIepm",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1435,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "OUeRe5UzwLQrLu0Fg8IqfPS45xDn3A9Ly9dEtBymHCvOgL1Evu5cchu9eAHpbRfN",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1438,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "z33dtkyJfSnc8f6pZq1ND4ci0rfGvfyhVWcyHI4x7Y6HGbgq8XpYjktbHLqI4PNL",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1439,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "Hi7GXD1vL4E9IRY2uUdRtoQT1n9sQk5TDt4WooHxJcbH181Or5CAfmJOhVpdseSi",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1440,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "6LielqwXeNOtHXtehrKfxEuk2gZg8skBoWTd5LjnbIqN5aVCu8pGlbfH0gs2i8w4",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1446,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "EIhpT0mgwU65L92dtDA3y12gYmWTkCmxTeokCVukzjJMaJVDYtlcDCcAV89DabWh",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1448,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "pJT1QTNsVmRv2e6AO69kwV5TVdJZGEeTaq5XPj5tvHB5ixRFby6dwwIw4E21sQbR",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1449,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "Ctk9TifNrhexMJiuMReTw0HnAvwTnkzDHFlncttohrFmLDbjiGFdcGyaBsaUINjB",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1453,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "IUYpLpSk8RYTI1Jv866hAUjeohabi7VXeb5sk5C9DtV00BlebAHqmJdfsfF7bZbJ",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1457,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "qcwucesN79ADsOv9zCRHQnWpSArMpuBJgVucf3vcENTjmArlJXYPM9IyItkXxYbf",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1460,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "h6Qktht6L4Nddwq2lGv9tYbDTfi0VQv7FOxaGGdBt9qBP9tcBD06hvQ6neiJxN9t",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1464,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "nbwOvaptzhYDqHs2ixdkSTZgAT1mwp8XnpOv3851r22tsARv697xZyhIFz9rkMrR",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1465,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "TBLVPI06sQNwpYPGaSKQTZrFpztZB6sZRqakxqY2K6lN3FZu1ywhAyrntrecQh2H",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1466,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "2CXpqelRWIVbl3dxDwNQcG00Utcqu74bVTUQSTtoywrqzCo8RGdIqpLpLGWoTJ2N",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1468,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "aMD5w5iepl5EfBiCRgWOhybXYdpfVupx1HQmBdK9mlEaKICqBdEMM3dqR0V4TL1P",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1469,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "dHALtozRkITITGnJ7Mv7yEmTaU62W4mCuGv064UDlVBefp3tprROSCiQZHqExbwM",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1471,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "LUF8WYha7XvgViEucbk6sXwFiwA6RuXYKsEhJL4EGN6QbLjce26KJIZ7yHWxcpVY",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1472,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "CODg0Bi1n1JIeQgXadSkw8g53uXFrdN6ny0GJzGwAn35rFAUw5QYOF74ZneqPUhE",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1473,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "zSoVlS4RAs0asbmnlgBGOtl1SYLxz9QqJOYHwqYqb0MXkWb5W9yBn6xVwBZdH9Nd",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1474,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "30MWC6rkc2s3MEajMq5GiWxA5aoia0TAUdkIH4s44XiutozPNeffWrAqMB4Bh2hG",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1475,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "t9ifqMavEXpGQ6Ykhxzd36CrkRdnQsnqyKPO4ACkRxM6LIDY64wXy5T9N6qIF3OZ",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1477,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "Ffukv0urf1SMliveUsPnl3rrGmYmKA0wyGsks9KoXhoOmlBSZ8tnLekESS0fOFEi",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1478,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "bFTuvykbPstau28OBzUIE1SJAO92CeIxydWFh3iVnOzd0emhMPhEz0T6qokxocEw",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1479,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "xgZ9UXRlppQL0vd8Vs8GK10xFw8VzvChzeO3P9p6j8ojgny8rvpBqmi6ir0KoHrt",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1482,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "TRqBnSrZM0DzJ7NaHXCdKduCcWgl6D8zt4Y5C0lzho3gerWNTi6Ojeh3wMtW5tVI",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1483,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "aSVdvSkmGirF0KH0u09roVSk1QIysviWSDHrdxc3rbDBQjo7tNevhNNvrCLBdFev",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1484,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "1P83A5WVDwsnWuVfFxoEG5U0ooIpy5pTuOMutQsba0NbcgemA2sdmnpkGtIT2w44",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1485,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "sm6dvj4tb6bvCuhr7Cb3vPusW4rUPfkGA8phT9Cikdc4PwBCGA4E6Gfwkettxxop",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1486,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "X5ghayP21mgLlbfzGSr0r1Q369BA2aBJpjUGvployiKSroBGxa1hFbxkcWuUMl9J",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1492,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "4TT6aZZX1qkk5dExlz0KliyZRQrw0rQ18GbEF1a8W9xaWjqMy0H6m78q1arLXA0Q",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1494,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "nt44j1gpl4KIBLsXZat3IzrTLkT7FnMceSJoe0R91OmrTeRWNf295twR7SEJd2yq",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1496,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "Kt52jlnnozGt06BmVTZM8AdhUro8WtL45z2uwJyGSjhMsW0NAI2NmtYk49qE0HQu",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1497,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "BgGW8DUlTGUB3BWblo69XEvC0lYsegZJRsanetcWPxU3erdRVebj3eswlj6cGUxz",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1499,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "dHaBrwPVlBycgRS02bub8iCEgHtYAhJqYcpEOmaxdd2xrgFIotF8FtCf0mtHd45v",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1501,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "NrRWff00v8qWQpbQqTkjaUbtcF496xl47khMleL2vzvGpi5QRtMwkv9luYyy4wO8",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1504,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "jqoOoH2amYm5jQNP8Ek9P8xwo9akD57AoR3dWfATlixc9D6YWC2DuBryGM59uH4K",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1506,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "3qxSthdGBmuyqUXsXznS7fhHZg18jfnCUqwJN3MhVWTYNJkKuxcaFlKvywH6ox6m",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1507,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "qAMeQVD0OE7YX8LSUl30PbQwZR2mRthMjv5AOROuhyy9uzFlMJLeGQAqRFwrlcG8",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1514,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "lmGHkLwvqi6JHPgTUORPl83XYDQmxuDUU58nEqHycNt5P30eZhgAfZRJheP0ThOf",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1515,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "RZYVpFKiArFampwfSHUx54FqMBzlY2zxeRMawn9efbbTzDQsjdVyDW3Sg0UTdliz",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1516,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "qZXqDJIkKgvbcVLiC2ZyzhyVM11Z8bCpFL5w3uYkjmGfDwYT9TaSDLTHaaSbzZQG",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1522,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "sjdaPpNWOxGs2V2yOmmaauShsvqAL9Jvl2BRHn1W5T7bkgzP3pS3a7CnKoSkW65U",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1523,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "DOUaENnxA2ZilGSKPiDxi1QfW6u5sJvvrNzmg4qwcspxH4foQPG1JzJGLiSjwCGk",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1533,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "v8feLhhoLuSmNPAIh4t53UTBhhGehodqd4YvYO5hQhZpHj7mbdSw8tXr2qYFLfCG",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1534,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "AKrys90mnnGgpjFiBJ7q5sPEDxquuN21XN5K9Eefv7Ixxl3tRfHmmJRiivb1xYMP",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1535,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "WAgc36yFWXwAyjLd5rAO6Jgglc3DaDY4CHPHyKcfWgL6be8tSfdO7JbqCqsRCvYT",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1539,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "FyoQq4BYuuPiackn8u8qdnoIoPieeb6GRUVBlDTU2oAG2uaFwGWdK6IdNU1KomCn",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1541,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "UCkT2pZeKclIdl6Y8acf4FRUJV4M1VunSt9biKBx4i0LYR7BFDZsKyf43umcjylM",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1542,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "MspKR8Zyie3gO9peZB2dFM6fAOi8r2s4vbH64dA1GFoFpUpN5Luh4UB3ARNLXRMR",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1543,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "mdcf8KEwpCft4OlVtx5hoFyX7O4iH2h4wpwcVNcGPYt54Yo6BYFJh2Luhzo2mM3O",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1545,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "byLV4S1y6f2dgfUvpVzijTIdgGo4DxOjDr2Ihk8bATVPxjaBoYvCk04nlu2wX1xU",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1546,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "iEoJquBg9QESTLfrg2gJUExEaXbXoZZcLEXUXXwwYMdlJ1Vub9QV3uonkSx3j43r",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1547,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "OBpV77VYymFgwJGsYK33FXdPtcMwmJT14Ry0ltGqoQozBuPgSNbhYXqeNJfYWjQd",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1548,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "4lnlFNWjTKkVKvZvJtumGIx2lb7NGNGkASLRIcTbWjPonP5MROvV3jlVDwci0pML",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1549,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "CEbTAP97vJz6EqiJLfrqatSLt8yZXbZqc1AkFMJlj047eHStjHl86Kw26cMXJssI",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1550,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "EwibWFHgpbuqEnUZyzNxngWIj6zswOS2gzAyix8EIJUJmLPQZ2rgFvzEQbKX9W8i",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1551,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "txGYIZGgw19Ov6xqtXRdrm46PmxrzFAyeNdI7n8RnW2SW4RJ8BdLgJdeL23kPp2X",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1552,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "iL4058AejoEhMpGcRwsZbTjKC3vOgDmyzeQ6uJ4g8SzOQ7XN1GtqKIt93C3Jby5Z",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1553,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "zYkU6d60urBT1gb8lVti5VMKBNq6q9WVlWDc3nz7u7Qw68cSOXOiFaWDtHsmKTTM",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1556,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "7Sg8LB40QpDKT65FJmFtH1ocossI14we7sMSEcx8p0TQqiwecdCdhHXaWtdZmPwB",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1558,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "ncU5TZWENjFRUJHW6b4fh62XSnfRsZR5S05P3EM4ltM1tvWocxvc7rWO03MHCvMo",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1560,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "ce0FDY2YbW4LVNY2RRP2dZKpizxN0cirXF88hooxmc4bHlOIB2t0kTEEnFtRLciE",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1562,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "E2CnsTLDgugR7Rb8zWYjG0HPc9vPJYR5dDPfGZvQ73DNLVqag2OcOG4jIuqqrtX3",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1563,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "jp1QQBzPxvYaIR573RIYHsnDINz5xVadCNZand0dms1FAzjqYyBPynVJhPzlLEJb",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1564,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "o7Cnd7D1CiNCCpsbHuPKAeBrVBCqWK66PRwmHGY6618TriiDnNEkmlou7A1POrUp",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1568,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "g4P3YgwnbxnfNNnrlZNKIeZp4CPAtRfWvTl2xmMzEI7zGDr8E8RUchjk1RUuyTIt",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1573,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "ZTWoLfeRQoIgy1w9AlrtgG7XegTSFgMRzn4wbWSmGvovTNFxiVRp512zgTAZcFHi",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1574,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "ItddDv9YWfvvQZfmJkQoPv6H7OJuzoGI7z9DM8IF5YZNrcvbd2OIqz4V1JdW6UZo",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1577,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "OSC4DWszO55s01Bl5buCCEX6fRHNBAreJ4vxjWIIy9bCnPE2PeTKHoPWruE3ZYVx",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1578,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "pyd9UmhuMUxvjIclIQU98Ay2gotbKGRW1InkI0uB4ipgD2BckZbMORJQ5jkcNYCN",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1580,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "hSMJteQbiDJU4IhjMn0q234BOj1IMlcxBWMLDHoGEyxb6005e5SUDnfSWixsk149",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1582,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "jmf51BsrOLaFdSRKTS81fEI1E1QaCSvkDJnRegvPd7oZmYcx0Nof3xkmB9woClac",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1586,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "0RMHgTcR8G120ehhsBYX7GcDSLM72Ym86aChRVBBXWoOZXrghKnlcbyUDY8BAbdi",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1588,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "083Z1K8HqN5YJkF1t6rs31Q40TyxOaxq3QCWH1rijv4BzSfTZgBGGZOCFDE4wbaL",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1590,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "RtQGdqYVCBU5IX7tgJIcgKW46MLgTlCD4YrfAFrFy1c59W5cATU2fFvcgB0Nl665",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1591,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "odHQqer8sJnD6w87g4z4k50XqJn1iaqPspAnr0Dm1IxwDw8ZDhgEJ84wH0eRouC4",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1592,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "1fh9j1NRw6PBBn8ZB9nP2POjXnJvbOti7p0wQSAhU7mIsmiZu0xiYBw0vMoL71cN",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1594,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "XAM2e3eRuSGRUZoQhyPsFS0RqeAsrZ3Y0GNWqZbdKc19wyEtg2clQm4mj8qSpOmB",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1595,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "eTRzYRShSJLI5CTnwod0mVK6on8FqTPTysZnUHz8qtAEF1VB2bgJjnLJVOCESyLK",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1596,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "u9TQGTtRMgAmFSETcxsdQCtpzPlbDV9JEuJa7ukopxEVNWZIX7U81DlfGgIGTU15",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1597,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "iTSr5fn0WPVexMqF9gLk107LWUDVwO8kAOCUEOwlnWMQ6nntmn6B4KCt2dN134m9",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1599,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "PcuLHcl1Ed08iFMOalQtB1XdokNaK6UwY9NRjeYueVKF9i4BAYQ8iLPfyApvfR2x",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1601,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "STgEheWaifSm6sN9nAhutEDAUa26OSKXI1rHk4vawVLURH78lJKtTWYU95VyCW3x",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1602,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "FI3J1WZ9cUZKjyX76vseShSXkbkXvgZ0xdwZRZZCNhJ5P7wZ88iU7oGn16ChOm1c",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1604,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "TK2Nc9g7LlH3rVJjkeUNzoQ4YFJyDPeoLRlBB9yiqHgkbH4OxgzkzZYd5jIMy3lL",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1606,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "CmDuJ5i3MeVtF4Q4DfvyykMtc0WAHWRBCcLyUcyTyInHBnVG6VJhcqXhJvt0nKxv",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1609,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "mH36sOz0WSBCYGXhVC9uiGmISy1BQDoG8bn7m7SfoONuVJaetGh2qkCRiqAiglPG",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1612,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "iw8tlOqtLvNY5ahSUcoOA7AoM1LzxARKGFoVrsbb0nu1xjidkeR9ilx2lg6jX8uF",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1613,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "VCahwCEsGJxeh9BTiq1YBvgcq7aJZhrfDBmdf8WQlHmURoKcgtmTZeLVuaLxTaCI",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1615,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "WjvclJQCFY1pWkUh9milLNQD5xeU1YeSwGPShk0KZT2xMULzheUggvVromvnZaZ0",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1618,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "v9EgWDn8DqQtQe0bHcaTIHBOpFMqxWFqAC7ZYdl7CNG57EdRpI9S8CHvCW2fQvIz",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1619,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "zkYa4tyqfESeKgYnPtKgKDJw14usiY6KUoHErjPQs0JCXYHiKUSt5tS20uRCjOhC",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1621,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "CAEosKNsxflrdjDzgadmueBtc0O7y1ORWrDycWwlKE75NrcMWphN6k3v92sF4pwi",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1623,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "NKr03gLPpCsLC4UjfL9SNHWe8SfpWIYbWOGb3WrGszarbDaWqppPovLFaM6GNdGS",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1627,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "CfdZO01hFWDrKxRKhSWewH4SzaCo43nqvyBuSRTfaNxZa1hHueVgjkMQpDwWb9yq",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1631,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "rhK51lP7xVkiY0PptHj0W6P8UtkUOLg9sqa2cu5ITnJbsN2S5NGGDlSQXsYN4HBW",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1639,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "H4qohV36X2Xeyz2A6ZEcdsmYiphlwd2Hxq1XdNDPzqG8wHh3OhkweCzTqECEcayn",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1642,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "JhhcS1dHfz4xlssh0jyR2m7Dlec0MtGsCGLPDSHmtHyWByK2mjtZwcWNSbioW0iY",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1644,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "zv0dvTML7hmKZqink1jAimp5BpGVYOCt9ffVeTFN6e2cYe3KRUJFjz1XJzPcFvSk",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1645,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "EZv4ayW4WQJrH8TXC98290XocK4nwL8gC1g5NXKZJ83zwe6ZqrKuSuyMV0awFTWT",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1648,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "MTu8dtuRarhdwcU5TgUFauHbZH5c7DJhZCOk673Pc1nh8XpvkHom89t0B2I3ibWN",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1649,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "tEvnT2fzjZkbQFi2qVHkiHcKFqUdnwbQRwxYCGurKhA02lJ7r83eww6cr5PYfxQt",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1650,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "cYpl6jWmgG2SHiBR8zia1Y6VYgtq0unaQZDKvKY206ARYfkrEZdHlP2A5eqLTJPN",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1653,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "p31eo7O8kLsZgDVuBLNnsUsig9MZM6dktp70pb1Sz5c4dW2Khzpl4LBhLjNDv7wn",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1654,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "A8C2LW0Z7tqEDeDKPzPPORKvHtribxsDjOoEISWbzJv8u27i9HzPs8TI60q1h9Tq",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1659,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "waZWiOxycwTzLKT0YwARwkABIksnUnIiZxYxFzXYNqfZBjpTOG0ADqVgAeujJ839",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1664,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "8CVAzQK2A0x6hbeLnqA1fn2Mwt83y4fHYWBPX6H5nlCiUvyfQZ5lGYAtqpaAgHIj",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1666,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "mdxBXmIwI6IxNpnUEyv8t4UF5TBE0DToiveiLNjmX3W0rl4C5eQBa2NzkWRaE5jx",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1667,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "vkzE9xnknRtuqBOZODTvTXCF3BRb0LNbHUtXBNsdKz5dijH0SpJeg5X3Xcsosi60",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1668,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "inRf5N8xww5GYbY18rsQgIm6x0eOeMYtptELJhRbi3WDeaYKqhntOKTrf8kEsTIm",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1669,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "bR5U6D7gFbD59klRx2YJ5xpTm3sf5pdaZd7l4YJX2Eej1Hl5fjyyW9pmDH2FNeoK",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1670,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "R1D27IniqUjAbQ5bwIrYDraPbLY1fRplnRafptNLS1WBS23od7GxKDyivgy0iQ4E",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1671,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "z6qBnZ7szDDcSm24To0ivoPqUlHK5zpxvbzRZYhplIZ5v5hYnA8Eg9zEyxkA29Tn",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1677,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "d6ikxtyqeIOW3z9GZX2PC92dmTgQ3y0EPo7JCAk3nfStrcOb6LbCVG2QmudE8wXx",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1678,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "AVZnbaPTwu3jfh0jjmMXv81bRd0TN2NZUQq5pDghoV8nGZm4yQv0t8N1hiXpZazF",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1680,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "42ET3Vglyntu5VhHijBGBEdA8OIvhYfCfHpTWzHRlUXohhLTuoGfPgSCaVefG4pA",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1682,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "Vc6xFaXMkPdvnESqBiWLxNI7bXgIV0m8gkwRC5CbYAGj8U9tnkCQ0BYPEtcbJBH2",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1684,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "MvvBI21ysAo7FwVXazCOmaWarkoImWMzzxjpOa9xVMp2BltnA8b5xVCtoUQmenr1",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1689,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "8ETMEP0IhaGWc2mXGXkiosAe8cgUQWusOKXA1LN0LAQVS5Jllq4PcKXnJbAgJiMW",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1692,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "xzYo1Dm1ywHu6rhYoSCgT34rODRFVNHDn2GABZHcSyQVvdEqBhGCQERD45CvkjrU",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1693,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "C5RGe1za0JxaZgjm44uF48MBFXN6K06WSxJG3sfOeUTzheirzGLe4m1Yj0j4l71N",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1694,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "qoqMXyqOxj4e8A3sPP6FwoYlydH9kcRPsb44jaa6dtrbvQHH58gMWwWukB5zJRwj",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1696,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "YtY5kiXhMyLQHtKLJEdFoAfXdEOvFFPfmQ1zblOd6M263Z0dOmUMfyoe6Rf359Y7",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1697,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "KXUt2xQqrFpD2vk5DgLE8Oe5jKnuN2jyzb7sYsBje6zL14xHxqKB1AIIMvkglDBC",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1698,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "1jIEPtqAGchpu3GPnl48bcWJWrIn8CHipBbDPEbJtu8P6ohg6TEYrdQScjxknLjA",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1700,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "tsyUhiBVCtPAi5BmqFgFy6YhExHUdAt6CQjk1s9dz76qbKo6t2x3xHZdPOXn72wQ",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1702,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "lBYqzP0TsVroBvDhqGsO5R5vUgzDIeXGinuNa0pOOIN1wXbdpGXrv0NULfS68HzL",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1704,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "aBHI28ScUU9G60Th5RUO6zzpWgbKAAgtvNTIoQhftHAnJ74OhYotelJjMhyL1ehC",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1706,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "umMGpMIpBO5pXLaar11wehzCpRFhXEHRbSMyGdlujV5sZpPkZq6E7HInLC9KaZ2W",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1707,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "qtqp66lvAQdCxXfk7itKj7NmxSZYwEkwGsLQhukKFhNnwil5qDSvhXFVxgTiHogx",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1708,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "21FkCH28HwRNy6iEclQxu0vBSAb47QEWJGVL6RobbCDUbPPxdsqBx79oJRC66qPI",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1712,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "oPowWKn2agyI9o8FDSTXADQeVBFwCJdWpbI30OsgVztIrUaHL3lIPyuqHcrp2oTG",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1714,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "U30NxQOArmBcsfNXInJ5bNVQfsDyTk1XWOWV02RBucTnvKy77Zqsb1FdrcSlLpEJ",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1716,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "MrPTsiYVIreFIcICkvJaboCoD6BzvU6sBIgBrkU8d06jikLc5WWT31lrfwin5j1O",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1718,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "4XuTiiFWZWMrXdgeWxWRg3yUnsO25mGSWCdO2unpFtjNUGkxM4skIaMV0IOQZuCQ",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1720,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "iJAsxmPZSq09fUxMOE0aZfwxdC5PO64rsAhjmx7S6M1vi9gXzRLYC6mpXDWNG0vt",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1721,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "IcAMQKuXe97soaqvJIRsTV0iLBHlthm4WorNHh1z75Yl6YkbFPZSGJ6Jt7qUyBBL",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1722,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "hWY5VuWp1gZBwtSWAgoVKZTORS13EwQv3u7tO3in4jmx7jCBQJ5OF5x7Iu1O8vaA",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1725,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "clpXsdZ8m16FwFvvM9gObjTkBwhxiMLy5ASspryyeCPyH9sze9jL7pifKvzYsijC",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1727,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "vRZDhAZLLARei5bQIN0ZZJFyajtsfj92xGLLHFXaNfKdg1DfIldOGeV2xVQZ7I9P",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1728,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "mhNNbY2RLOvNRjrA1cR1LavnkKN5fyp8rmp4qrTBRCgM9NPaMLFqE0DCD2CiXWIr",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1729,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "AdqDc6Y7ky1eBD8cM63SZy7hpJaSeiim3s59hpou03lfJJCkDgDT5uZSno8IBFdO",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1731,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "LRlGItF3Jn5Er1xKkIAng7A1Jw4BjQhccttWTYWp0zjV2raQbonxBzC9Udc5GhEQ",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1732,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "HoK5xMbSdIxB1KYiv7XRDN46XQdbHINRU2SAW8uNtE5b4HL6eCIeeh2Q2UUpg2WH",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1733,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "tDtcdH9dWmsAuQGcagvP0Ep0yG7wUNqaBeH0xJ7piH4RvKkVCDAlGgXkKvlq1vwF",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1734,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "Yf6CX5qhceNlAgfHBjLS3otdexfwzJ9jedzUNMWLTm2uPaNLWjBf5TnOfbUzyo66",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1737,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "CxzYkuqemr21iqaVLDcksb8Zs9zvfWklv5sAutIZIzy7g9vphMZ8bijFkJOCF8Za",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1739,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "0RfrrIwIAQM319mBU3eCWd8WZSzxGJw7KvDG3AQTL0qLt99DSqFTXFr10VXrBPPP",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1740,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "M4hLhAdbBAhiJhGMHlFsYnwGWJTQfaClb3Kyytzvd7hqGETEVH49OmFD0uud3OOE",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1746,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "wRyvCuS0ErDD4S8YLOynMbeBcOyj6PoRXB0qYyXZqijVVVgvc9UCznhBcx5lZ1DU",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1749,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "Sy2vzRvsdcruOqTkr7unWhjUEDiDHxKBRAFxJjy3hm88ncg5nffH4b9dN6xO1bw5",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1753,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "l0JLWnPiW66w4fKjrkshF5UnXu3kp86vUQ6CK13v04Fg0pCUiMSRqoE6NgnbBwzL",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1754,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "yCoJ1SnMpZaxOMHXIEel1DdhArYbfm9zXvqihuZQQGOfVrop2ArIgUAjyxdF2sWo",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1755,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "sVxLsg8wsj3bMM9YATT2ytm1zE631wts9dmUBLm28sregAnW2Q2C5xchj4l0C5Js",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1761,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "8iMprjhS9vzXP5fgET3JuFkRBnUomLGXuzGinDD7LPDT2Noj6W5xBhBBCBCwAhhj",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1763,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "XXMYoNhdBY6Y61vFi0x9QxA8jvYUAcORzTu5pV3qGtwNI3X9kYNOxT05RfBZDQqk",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1764,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "t4FUVzhNcxn00SeUZNzUfW7c70UiAl3foeDfnWLsIwcww2eFbRxw8M8bBYrnxb7X",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1766,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "UVkqJawe2eh6On92c2yYwqGFHkRSQqR6mYPVrl5a8wAwvlUGVaYonqj7TAqlVXKd",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1767,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "YkNNT8E4p0ITjnfpMHjIc6svO6DacKdxw0BVSvdVnXRSadJ1HTmwsdW7bYZAyIkF",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1768,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "fxsbAyCNbWpBjEW8glJhRsLZZlUfUkm560tgj9CixZWQP7ZVUJZs8DNAAe7ldoJr",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1770,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "lb5oV2Xj9aZJoaaoNJI3Diag6ny6ty2EFsnNuXQjegj3T23g7sE8A8DSjBuN9GbU",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1771,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "RsGQrtNbrjO4IVt07p3kgstnhfF8O5peFfdM5BzeNsfkqYEABPDfNOc1vgVjgA7K",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1772,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "7vtzsyTYiuCrsluuRbkYhRJwaaHjN3GQjtKtv4CXZX4eJbbz9r3kBu1H27BeMr9l",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1774,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "dxn4lWM5G7HZroe2yc7GigWOSDQAIYnRjkXRNW4zMqISO8osWDrqEcTcc5UsV1Kp",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1778,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "J15HToUCxG25XohLo5CmqifAH5i6zL1N68XAVqRAFci1RbsF1hruHUuGLg8kBTEF",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1780,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "U7bFM8zUNXz1qnLC5IgA1HeHPytm4PdWgRQpc0HG10jN6a4CgVzi1jXwXavkkKcN",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1787,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "737PlbonzkYLILPnL0WkVJZOJzQUW1uEikdUTdEL7jj6J2HElYNjRtYG68udnlSi",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1789,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "oXiur4193Yp0qpPbRtaQcjFqWU7oOuHXRrBJDxYX6ZSjwpE0eVZbFM5qVfwEi6cP",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1790,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "3Wwhy7npHLPro0HPfxgXq8ON1FXC9BDc2KOnkugTji73YwcQw8wO6uhT2RKj9fOJ",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1792,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "UNMvzTfwXKm4GLrs9F5WE5KErWPLhYoiP7h6YwgRIPgr82bbwmNwy3jP1ak2nQVG",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1794,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "XeVnZAZbf0AUU7dI4hWLCAJwynQK4IwfPRsha172zntv4FnqaMb02MBYXCPcs72g",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1797,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "CVmZJwHiVb6ehWwODjo5Bax1q86YVfoK7fYc9UV1riNZyXS33op2OVujo3PUfme2",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1798,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "WfxQwKPcEs90eQzMylMQiviGGFwoatO5HA1AZYxeMiezjOiIp0CO6Pkqox9wLAfU",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1799,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "KZ0iosMFlFARB72bk0x38DNv4pX7VyHhb6fEBm4TKbqPKxGrIj1hxv790ZS2cJdn",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1800,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "w72szOZDLshykOfhArfijqsOqXJILZVsUFPIVPrxwIwnBG1OLJSOCnSnSR0qo60B",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1801,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "ND7RmlIeXZFGmYSkEbjvDDCiwGovE4Dil9cWjX7qdvycLNvCrgdODJSLMAKwMuuv",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1803,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "g30LrbKAEtE4LJazp62w18AOEEawtNw8em0iFxRQ7JbkO4OtezVGl7kOlrat5Qod",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1804,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "iykZ9jozSYYmBwMKu9yeSTPvXEi52NWVwG9bVgs8pfJxEfYIyTASGfDNUgMUzER2",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1805,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "94jCUOvQ5TTVYWYHfZ9lizRav5p9PYoxELMx7Vgqr6KZacow8umVWuNxYrngIHOJ",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1807,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "1msA82WTvvI2BNoGm8JHbp5q2HT4zwBXgi0AQFFToITxoxDiPjhAaZrQ6lpnueTp",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1809,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "NNdVmL8k781HiyLUG4c3fqhIbiYOHofhLYQtay0rdFB97sKuCguXRmK6okmDZpaw",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1812,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "VCkLIzYBCIO5yP9vYCPW9MzP5lNJcHzth28z6jDaRPqJmd9iInAWVyFalLTgTX1e",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1813,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "hQbFJOnJHlt9AItomOH70o7rHVidcRjzdczpOYfb4RoEMFF6dFFbrzR4BXOwFDSP",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1814,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "VXTRfjWSz3KLUlflhgZm6JtVqpooCMYF6woXys5de3OUGgvtKTyi1y7G7LtuPb9K",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1823,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "IKQ5DnlIQ68KmZOB6ADspgdyFBfaowFLqcqFS2H6nlpzGTyOU91lonnXULDw3ryx",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1824,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "1SchF8bXQK2DYjKdNo21BwwDiGrIMLIpQsut8b57caoRvaz1Smqc6lS2pxJAe6nU",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1826,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "CJYXHYSchGDUCZEed6KDsqDBisdXjrxXqXZpIYgtQ1wSQV98MMt9ohHZzvVD5Uyj",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1836,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "lSmvClmV0AMIUo9xyVpkskh5w1umBqErMtlaJaKWQeNyiA2jMeB6FvXq6suYotSJ",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1837,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "wvVdZ8kD6b7rjvVacxbGNr94nGarYkvTMyjvwuwfL9xW6A8lykEK72NPwtrxtIJF",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1842,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "nc5QGk25q8yCGwaopAAX0SDKFKYuuaU7dLblFbWdx3XQLYG6xFWoU1a951YeHpaU",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1844,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "EokZ9cO96vhP0LIELWTsg5DcyfO0vublxdNP5HZwQfK3dT4tfE3zK4BYQzPBKK2p",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1849,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "bKwUJgEiS79kVqLu7ClXu09BSxHvVbdPaxXZ4sT0SMIKXYUGndrTIpbXiPDhNVG9",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1852,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "mO22r9CFdNt4zYkiQqrFyCCe85Nz3OKoUl1ow0gUS7UGe79br8JX37yIb8JkwqFS",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1853,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "07zFOLSKvRZXSXoRWgVels9beos0Cea6B8nUIfBndlyVw13Ix9rtsAQ3jhH8kfmu",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1854,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "CesgUInDTcEfrYqtvJp73zjCQlRQmhopf72MKzisirC5H7kDXTI0L1JefMmCJSq5",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1857,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "8DJWS0iW6F4Bp944fo7KMpTTR98iZIcchdNSDWYAJDaNwKVk9FX7v0jJjiPf0Rkr",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1858,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "uYzOmyssi3NfPh5ZQ3DIfNvA86D3tt6Mjaor77NYG1RAuPw2VkhDlLYntuzOPP5K",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1859,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "CGk0Ao7YA1ie05Ss56sDhCTCQWbFhbT2BK90RKMWDBQ35uwLwQReakgwBOntyOco",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1860,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "c81udDCS3miyjyecis1E0Eh6B8VO6X4RQn8sURoKV2JLduLgPnZOYaTtFu7lG3Vk",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1862,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "bffNtH897n1pjLaML4JUteD7Aa1OIyAAxsikpJOncfXMUIFQEjYrUdkSocSwJilm",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1865,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "aw3yIsDdJgvxJQ9zOSe1Kc4ZDb9XoB5ndXvot85iB0bvTI3qmBJTmZx0GQ8yVwp1",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1867,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "zJFhAEX3EbVTJgg64GV5iKBJPryV4KudbxrCDqhULDDPf0dIbxEsM7ydrZdDYpAP",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1868,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "BIzY4Uc5ylORcVvQRAcK5jcQuhykchTt24rhPVbBLE44ZBrGl0C2s6oIaGvHKQAy",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1871,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "YcqlFirXygl2aOLREK0Qf73t0r8m4Dx53H4BLZ3bHMur7Vo4goAwx6mUD6kVkugJ",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1873,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "ny0ITPUg7KyhZj8IykWbyRYnUaLdyqIyOeI2uUhZXn2euPSwqNrhvrRkju1TzGta",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1876,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "2sXoNWQYPnRwT5HCkubWPzJZzvXCq4XNrbaBMDTvXkXoeZosiKfd7Nw0IakeAzjH",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1878,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "TtPURMVSNE8adjP83dDM6sGqKRCGmWzb0a1kskrfcDKUN3wsHiPWxsxGBcP5jPsa",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1881,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "drmpHQ5n44oYAymzdO76YMHV8DwTk7Pco64Q0Xd2WFl9xdEnZ1at8bIMWl71c5em",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1882,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "oAYVM51NHKKHH1ePsUaoqTMuu594rlE59K0FFXehpY1vyyNzI7gGNc2xm1ZWifRT",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1883,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "fDKcZh557pgL35vcpMwg5UlatS985qV6OdUV9v2ZElBdou7g8GU2KZndXn8hcDiH",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1885,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "T0vru0qlpkaOxRJGB0ZB6OsnqT0mvOzaX7EfmeVifp3a1J7ywf2sYPVkZh3z8qje",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1890,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "tXa0Cb9fdUgvdXEpT90zgbrdjEC2sjruu34IvAJqWJZQmehyECTE8EchiS1AULE5",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1892,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "vtLQ5jPcotcuveBWg4bsce4v49fzzIEWRshsElWuShbsl8iQ4c5uGQT0fBBLvnPF",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1903,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "4cPN7CsBIEP4TUJQv2F6nJUwCjVKY2h6onGNuGJS5LlNWQctTmDxhm0LZM0MtR6r",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1905,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "Z8DrtWI7YRC9iSNvm2rtYhtN0KuHp4hNuuFEgE8nzrTe399AwoSHLePPXy3Tc6fH",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1907,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "vy0365o2YDKjY0nch9IRwdAS0TOxtduyynSe0lsMXNoLpF4fgtYwBU3yq92WVmWz",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1908,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "ciQy3A5wsgWEXTokhh3aNfEIyhDtoqhprz9C60YiWP3HLPhhbC5X1YwHt48fjjKy",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1911,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "zzc8xd17FGaxmUaqfi9mHZ0YNz46CmNtyAGDnGxgwiUPGRoP1901YctL0FC50RZe",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1918,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "F0jOA3IfPSJZDcUY4m3ePtQsQgnuDJ5vlcdMP8tR2s7caevLH3XEzGxe4S7QAydj",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1922,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "31UncP50sBCNokTm4mkJU0H5WK6w77DFM4yTgF2fLnzGnWBTA4yixHHUrP8MQBUZ",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1924,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "pMXqPcJ2lPhXCoO46utFcY1Dx6MuAdsKWV05BTin4R5Evr8kYUEcw3VjRLLZJfH7",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1927,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "Uym5AHcNWc7HVjAWjsAGexDGcFASu9aNm9XgQTGIP4b63yp29a3VuN8pcVVo2E7H",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1928,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "EqdIB9HdWq09WROFg5r2ltfiT544qydGCmQfKqV5kfL2q0tvL6ch5ADWBvELXb2Z",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1931,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "hEWBDlsQuFg6UHsQgxGsGG1dOCoFXuouJ2rUCcGi4B4qm2pD8l0H2pLXTh9z7HtI",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1932,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "o25qgcrNJvx27OBQxovT1zHARnse7E4hQ33xIYCrjBHucOMf4epQAOoR8VDBFdAi",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1934,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "g5w6I15GWeVSkTvOQShJJNQ7Z8M9X31qaM96C5nDo4JPpNenzdrYsuuF5rGZZqsF",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1936,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "8Y2zYn00rua89ojGVznVVznXDEy2iIjkVj3k38vVbuiNsqMXZeYNvZ4IWXKB2Yg0",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1940,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "eikdaoSN1StSTraD7twATqwDNVjEa4pazRwW2oKDpRUrfsZ5hINphwywuo5F5wqG",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1941,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "DuhjoClj1u0bp7M8RKbhljuXt7T0MtRgi8xs4t88kMuHxH8PxwyWunF9gl606Ppc",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1943,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "wJs0MKGBkzQWqKdx5dPDVbixccWVTX9xvfL2eE0bbXW6aiu1ekogFpLAnQufndZz",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1945,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "CEpXf9WZfQS1hKPkvcrnM7BVAW6NX8WU5ZLmucSM8sNQ8IQGb0nRaQ330auY112U",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1947,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "nGhX2C2pLwzfcQgaVTvdrqawdFA17pNJhbkPYT3dBEneCwLtQDwW6QHl0n3VO0YS",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1948,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "lizamGXnTmc5Cw58PNtWnFasqjAa0t3R0SRfOGj30uYF0Kg9zC2ogjH9C55z9oHI",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1949,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "Roe71OmZqdHswixNmVS3bfpL1NGM9lQbKbf7xdxlrmMw1AN3DQpgqJVzabj730hB",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1950,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "UnNBXvHpopbWjIcLHPSUPpHMdFsUZYn8s8ggruGOx3L6SrpwdgryDPndnqmbM7hO",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1951,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "Mq42Sj5KN6HA2AHxveBvHZ5CA28GarxXJ2HUGqv2l8qS7BNtLXeY4CjZdYMtrSOL",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1952,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "O5ZPp8CsOYGwR6TojALMEnUUpmZykxSfZLNwEgZmpe68W7bZhleJZQacU5pacrR7",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1954,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "YwO9U8DId9acJFD0QyNlMbYMipfBkWZfEGzG7dxwSjLkefUK95WakcbEcnYlZivS",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1956,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "gn7Gnrp2g3wskAFS3OV63R3XEMlr4aG1zbvmsDBDbIBw91QGX3Grk28e5W3Vng8C",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1960,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "zxfWNo2EHX2G4wOlUpci2XoV4fj6MO5XENrzkAraja8anBa9uugBRsePzzqE1mGF",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1961,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "81iZ5dxxUi800sk9AUoLV1hEBm1LNOKhKgXf9GIhnGiGMDf9OlIKmgDtoWBEwKhA",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1965,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "RWi8nNCtFAlHrXjv3UX0nQGfkTeNpO8goXKVWnGfigavkOVRKhARXx2IwFFRR4v7",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1966,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "SIzmAglpDo9zJvzLmM8ztYhlPWzoBo2Lj2ueA0xf3EcJeFr3JO4tVYxFnLEnRkpz",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1967,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "2DarGr5qCOZqjq09G9yrhwrCiP2E10HTwVYWFvGmv5R48wOygu9zyIGT8snF6oXM",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1968,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "iy27LQBizRC0PaksmTrnCir9jEQgoIJGH2aSfLUt47CBs8TkFnblZn4W0GLnZsYB",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1970,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "rQQDfiy0umonxiS35B0sBKcjGfawkwBT0PSBVrl1oYwvfTBaOgSGHru2Oaz2yqsN",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1971,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "sVSBJKRTLE7llI4cAHW4LUE7h5OWiOSOGEJPEIeJZ5Tz1QMZJU3gG8DWOMK84jBU",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1972,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "b5eUAcr1tMlf5wusPomnGq9W4iHfKGcfDLkwsWIhGjR223rtszqO5ABgYLJrTPxK",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1973,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "oT1e7fBPto8M5fCQRBuz8n2DMq5wFyw2qpd1DgaRewJBvaQBjjwVCh0wVgLuk1G6",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1975,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "kVxwEHXUkuZ3Z4Y9K0dr3r1eTDicq7rU0VYBJR4ZWXvFdmhG1nx1NWTNjtKZxR1R",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1976,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "SnMETMm04Qn3z0e51Z3oRJHGI9JSbKWYh42Y6nEuuS85R5yQ3USmB8JHO3YwoNqk",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1981,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "cZd5DFLjbURbi2d6OLcXM9LjyANOrmap8T2PWsscbE8jKrC9p6fbls3pASepbWcV",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1982,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "e0k0AzEPevJ4IWYXmRjlE5ueD52jnxZX0HgeL0cO454Pt1iol71DmLNxNStsWO4f",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1989,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "vLc7SVP24C0hnODBaZkBRDNyobSkos8mTuotI9WxURBPNjAQVOKdtNkNNc15aLUT",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1992,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "lJDqFLXUUZ3pnSthtByhyrVZtvAEfgzuq6bFQF6EXv4AkrAFamje3TRHyUoayv4w",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1993,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "nln05Ta4PxzEvXuEdzPGZ6CvRiuSYuPVL103961bI4nBliwAjzIAlr36V0ftWrN9",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1994,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "N1wRYtBDDPBnjRkDlZYYNCIzsmYzm2opyXIUATLoSbc0PGzeCMdX84YG7PMXrmwt",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1995,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "w1XaAlsokTov2HtRWnCdyki68nRBOzBMg4pERPh553uG865VJioT1cbUogEUakyr",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1996,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "TMDDPfQnQhlzRp5xP21ZZsAHJSME5bMIbxuRVgBhQe3qy381NZUeIcm4MA8HFCxl",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1997,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "jUEE1CMWqvNea8KBXitBIPkgennMev2gPJJ9UN54cRWD1DRAkOyiI8vIRiX6wKNb",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1998,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "0klHOWFG8v35WgvPmdAYKNs6MjD12L1kQs3dmvf5ZP4842f3SEjdLIVjRstbSB9F",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 1999,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "IOSwtoETfPlCtAzjYSPhtJfCQ7ScRAf6f4zeL3EFpeXiSLE6wEzmgwxoNqntsVps",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 2003,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "QtZK7lgFL4y3MHM2ULFVVBNxzWAtpISKWQvWGI9VszTUzT9b72bjBGPXsg0UblLb",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 2007,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "mj4Hra1zMLLoRvHtC7GhS3TciMEFwF4Pk5E1NUMARuJ8KCyFWDCLb6buM7BmHXGz",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 2008,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "LypLnLZqYpa8x3HEtuxbS3qN0U2pV3lNvoj6VnmGadCVrLi9NzWuyupw0fMDW0sG",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 2012,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "mtpDsyaiz0Yj6FJwvRpD6iY5hvs3Sy7wbqwvHuaZp1qy2H7wdakK6slqT9r7oTyf",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 2013,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "ACRNmE3WcAXYVAN66r0Iqd9Xni9YYrMyfZu4vryCek6saLmu5mqhJ9skVhS0HTho",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 2014,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "cpWt0eaSzblLHhNnSs1LjFVvazrkR3Ypa7mxX1CuGsNgabCR23fiVPotVUoXcg5I",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 2019,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "KAiUj2k8S79mq84R1wAxBFU8MfjjRInBT1Oh4tSHSG7CKYL4uswDoCi3QJApJt0d",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 2020,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "VehvVQBkqJez5K2tDPsEHrC2JPhPCz8WXC1tg2tBczUFHec8Z164KwtxeVeW03gM",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 2021,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "sMVbacYUG5wa7Lh246uYvo5Hf0hm044YypsIcCWrWrOFXhdbkmnS4R0cueKA3Tcs",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 2022,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "CrwMtqXUXzc0Ly4BTLxkT9Mbsijlyr8yOlEFodgPpDt0mC8MndmgrZklSpGerAg8",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 2023,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "ddXq0XorcPlC07hbRQIC5xKIxSsHf6BU3MREnKD1I1CG3noHjnJbWJ2UE5zesUcI",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 2026,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "qPbFN3XFlDMRHgy34lmbAMxFgZ27nWeQWXPG13RcpRDzWOJOBeDtnkKltsPcxQan",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 2027,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "4tAUiSqFnvzvbqpISSVhNL8FN9KXbEkavtIk9AO0BAKFvdPyiACWZTKyllsRBLUO",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 2031,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "ea9y5SlFvAva9FjoArXCC02zOX1EU2hOLSpKfRcnGw25hgqIzsNu7dfkffc7TeTl",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 2032,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "JPnhFahfKg0C8cXmL5dIK5x0Mna1p3GJxcM83TfeMAhaSQbSp642aamjgwEKJ5C6",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 2036,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "CX8UfYqbyypJ3UJgx5FGvFHIGpQYDCQfqoo0GMCtt9tXJCdACqaLT2A8ghhsBjM8",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 2037,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "buuuu13GZdPwwTFfKyL3TTzmTFqqsu531gZa8EOdYc8UjBOitxszzAei1wS6vsOS",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 2038,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "RyHaQ5jZDwaztFTE7oIotftHGUpqSiY7zHQ35C2R8FeSG0Gwp78hcxNqFm1ZrMTe",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 2044,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "PK7fW6YTcnTRCs2VQ8vm9Owu917weZygPGCrTpbZLOETT0nN7IquSzCVARoKn7aa",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 2048,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "cvhtGnc68IlJJN7l9OmGcLHkkL7wbwN8G7UzObU7Kns0pf7ibFWsNcgkdLf8PXAy",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 2049,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "xq3nOM2NbtYRqLGPWaRekacBPxHlQpsWY3418lTkfYzCCgSUXeygdygWGzLvrd2V",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 2053,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "H7GHejz3awhBYP0A89P5A0TvHm7nAAHrOGQ6G5u8JtWYbyGbEs5tZLtfb5fUJTaM",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 2055,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "j69sekebePNM9RKlVfedsa72i20O9jJqwD81IQ44Zq95q7w98aRat9uKtm7mVjjp",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 2057,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "b3fCK0ynZZmjuKcotIJEQa3iDNkLXvykDdMkiF9r0gcGTE8x8Ast67oDKXY9HTHc",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 2061,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "BBYDZ2JgiZKMpSPuwhrSANPjlvl2H22eKhQtahqZY3QJwikfNs5JKqt2Tldi8I7K",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 2062,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "dXeq6ykrUdIY7YKBcdJp0NMnBcDVHnI8OiWvqe4dqFPKdImixpZvcOfLkEYjRYrC",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 2064,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "D2p2oW45rYQaIvDVcC7bh9hGkuVWZO6f1Bv0I9K6RHTeS1kiJMRK7U4m0t5jT1wY",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 2065,
+            "Gender": "Male"
+        },
+        {
+            "SerialNumber": "UGJHN6642K960QsCBnMKjC99V3eteaCw4bykmtl5qMcHF04LpIynev1WgSaPUeh1",
+            "genderkpi": 42.649902,
+            "EmployeeNumber": 2068,
+            "Gender": "Male"
+        }
+    ]
+}

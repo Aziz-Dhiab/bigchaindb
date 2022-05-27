@@ -1,0 +1,17 @@
+{
+    "type" : "assiduité",
+    "dataassiduité": [
+        {
+            "DepartmentKey": "RAhebUdU4D3wg68PWr2xufslaiPGIMPYk5ohkRofs6DCVSOJcexyQP6DTRKja6iaa",
+            "Department": "Sales",
+            "SerialNumber": "62RmF3xuEMntJ5T8cWBomUfPt6G3yCEzRem5plb00aAYEfsIOrAANobP17XUrQkNa",
+            "WorkDaysSkipped": 8,
+            "EmployeeNumber": 1
+        },
+        {
+            "DepartmentKey": "GBx8iAjylwRl4L9YhoXUcEyPpTxTeMqHjoTpx03XTi3ZWoLeKpyXuBRJ4tpuaUI0a",
+            "Department": "Research & Development",
+            "SerialNumber": "dG9DHIUFIxIR9HD9TDvIZohMipMJapy5OTEgi6CQoLUbbQOUVvcg5WOo37p12Auza",
+            "WorkDaysSkipped": 1,
+            "EmployeeNumber": 2
+        }]}
